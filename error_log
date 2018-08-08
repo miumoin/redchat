@@ -1,0 +1,619 @@
+[23-Feb-2016 11:56:30 UTC] PHP Notice:  Use of undefined constant DESCRIPTION - assumed 'DESCRIPTION' in /home/dinocomm/public_html/apps/freeshippingbar/modules/header/header.php on line 7
+[23-Feb-2016 11:56:30 UTC] PHP Notice:  Use of undefined constant KEYWORDS - assumed 'KEYWORDS' in /home/dinocomm/public_html/apps/freeshippingbar/modules/header/header.php on line 8
+[23-Feb-2016 11:56:30 UTC] PHP Notice:  Undefined index: protocol in /home/dinocomm/public_html/apps/freeshippingbar/modules/header/header.php on line 31
+[23-Feb-2016 11:57:05 UTC] PHP Notice:  Use of undefined constant DESCRIPTION - assumed 'DESCRIPTION' in /home/dinocomm/public_html/apps/freeshippingbar/modules/header/header.php on line 7
+[23-Feb-2016 11:57:05 UTC] PHP Notice:  Use of undefined constant KEYWORDS - assumed 'KEYWORDS' in /home/dinocomm/public_html/apps/freeshippingbar/modules/header/header.php on line 8
+[23-Feb-2016 11:57:05 UTC] PHP Notice:  Undefined index: protocol in /home/dinocomm/public_html/apps/freeshippingbar/modules/header/header.php on line 31
+[25-Feb-2016 12:08:27 UTC] PHP Warning:  json_decode() expects parameter 1 to be string, array given in /home/dinocomm/public_html/apps/freeshippingbar/modules/recommendations/recommendations.php on line 37
+[25-Feb-2016 12:11:33 UTC] PHP Notice:  Trying to get property of non-object in /home/dinocomm/public_html/apps/freeshippingbar/modules/recommendations/recommendations.php on line 37
+[27-Feb-2016 18:06:53 UTC] PHP Fatal error:  Cannot redeclare diff_with_current_time() (previously declared in /home/dinocomm/public_html/apps/freeshippingbar/modules/default/default.php:304) in /home/dinocomm/public_html/apps/freeshippingbar/modules/reload/reload.php on line 222
+[27-Feb-2016 18:08:13 UTC] PHP Notice:  Undefined offset: 0 in /home/dinocomm/public_html/apps/freeshippingbar/modules/reload/reload.php on line 207
+[27-Feb-2016 18:08:13 UTC] PHP Notice:  Undefined offset: 0 in /home/dinocomm/public_html/apps/freeshippingbar/modules/reload/reload.php on line 207
+[27-Feb-2016 18:08:13 UTC] PHP Notice:  Undefined offset: 0 in /home/dinocomm/public_html/apps/freeshippingbar/modules/reload/reload.php on line 207
+[27-Feb-2016 18:08:13 UTC] PHP Notice:  Undefined offset: 0 in /home/dinocomm/public_html/apps/freeshippingbar/modules/reload/reload.php on line 207
+[27-Feb-2016 18:08:13 UTC] PHP Notice:  Undefined offset: 0 in /home/dinocomm/public_html/apps/freeshippingbar/modules/reload/reload.php on line 207
+[27-Feb-2016 18:08:13 UTC] PHP Notice:  Undefined offset: 0 in /home/dinocomm/public_html/apps/freeshippingbar/modules/reload/reload.php on line 207
+[27-Feb-2016 18:08:13 UTC] PHP Notice:  Undefined offset: 0 in /home/dinocomm/public_html/apps/freeshippingbar/modules/reload/reload.php on line 207
+[27-Feb-2016 18:08:13 UTC] PHP Notice:  Undefined offset: 0 in /home/dinocomm/public_html/apps/freeshippingbar/modules/reload/reload.php on line 207
+[27-Feb-2016 18:08:13 UTC] PHP Notice:  Undefined variable: i in /home/dinocomm/public_html/apps/freeshippingbar/modules/reload/reload.php on line 220
+[27-Feb-2016 18:08:13 UTC] PHP Notice:  Undefined variable: i in /home/dinocomm/public_html/apps/freeshippingbar/modules/reload/reload.php on line 232
+[27-Feb-2016 18:08:13 UTC] PHP Notice:  Undefined variable: i in /home/dinocomm/public_html/apps/freeshippingbar/modules/reload/reload.php on line 220
+[27-Feb-2016 18:08:13 UTC] PHP Notice:  Undefined variable: i in /home/dinocomm/public_html/apps/freeshippingbar/modules/reload/reload.php on line 232
+[27-Feb-2016 18:08:13 UTC] PHP Notice:  Undefined variable: sql in /home/dinocomm/public_html/apps/freeshippingbar/modules/reload/reload.php on line 148
+[27-Feb-2016 18:08:13 UTC] PHP Notice:  Undefined variable: best_match in /home/dinocomm/public_html/apps/freeshippingbar/modules/reload/reload.php on line 111
+[27-Feb-2016 18:08:13 UTC] PHP Notice:  Undefined variable: i in /home/dinocomm/public_html/apps/freeshippingbar/modules/reload/reload.php on line 220
+[27-Feb-2016 18:08:13 UTC] PHP Notice:  Undefined variable: best_matches in /home/dinocomm/public_html/apps/freeshippingbar/modules/reload/reload.php on line 235
+[27-Feb-2016 18:08:13 UTC] PHP Notice:  Undefined variable: i in /home/dinocomm/public_html/apps/freeshippingbar/modules/reload/reload.php on line 220
+[27-Feb-2016 18:08:13 UTC] PHP Notice:  Undefined variable: i in /home/dinocomm/public_html/apps/freeshippingbar/modules/reload/reload.php on line 232
+[27-Feb-2016 18:08:13 UTC] PHP Warning:  in_array() expects parameter 2 to be array, null given in /home/dinocomm/public_html/apps/freeshippingbar/modules/reload/reload.php on line 129
+[27-Feb-2016 18:08:13 UTC] PHP Notice:  Undefined variable: sql in /home/dinocomm/public_html/apps/freeshippingbar/modules/reload/reload.php on line 148
+[27-Feb-2016 18:08:13 UTC] PHP Notice:  Undefined variable: i in /home/dinocomm/public_html/apps/freeshippingbar/modules/reload/reload.php on line 220
+[27-Feb-2016 18:08:13 UTC] PHP Notice:  Undefined variable: i in /home/dinocomm/public_html/apps/freeshippingbar/modules/reload/reload.php on line 232
+[27-Feb-2016 18:08:13 UTC] PHP Notice:  Undefined variable: i in /home/dinocomm/public_html/apps/freeshippingbar/modules/reload/reload.php on line 220
+[27-Feb-2016 18:08:13 UTC] PHP Notice:  Undefined variable: i in /home/dinocomm/public_html/apps/freeshippingbar/modules/reload/reload.php on line 232
+[27-Feb-2016 18:08:13 UTC] PHP Notice:  Undefined variable: sql in /home/dinocomm/public_html/apps/freeshippingbar/modules/reload/reload.php on line 148
+[27-Feb-2016 18:08:13 UTC] PHP Notice:  Undefined variable: i in /home/dinocomm/public_html/apps/freeshippingbar/modules/reload/reload.php on line 220
+[27-Feb-2016 18:08:13 UTC] PHP Notice:  Undefined variable: i in /home/dinocomm/public_html/apps/freeshippingbar/modules/reload/reload.php on line 232
+[27-Feb-2016 18:08:13 UTC] PHP Notice:  Undefined variable: i in /home/dinocomm/public_html/apps/freeshippingbar/modules/reload/reload.php on line 220
+[27-Feb-2016 18:08:13 UTC] PHP Notice:  Undefined variable: i in /home/dinocomm/public_html/apps/freeshippingbar/modules/reload/reload.php on line 232
+[27-Feb-2016 18:08:13 UTC] PHP Notice:  Undefined variable: sql in /home/dinocomm/public_html/apps/freeshippingbar/modules/reload/reload.php on line 148
+[27-Feb-2016 18:08:13 UTC] PHP Notice:  Undefined variable: best_match in /home/dinocomm/public_html/apps/freeshippingbar/modules/reload/reload.php on line 111
+[27-Feb-2016 18:08:13 UTC] PHP Notice:  Undefined variable: i in /home/dinocomm/public_html/apps/freeshippingbar/modules/reload/reload.php on line 220
+[27-Feb-2016 18:08:13 UTC] PHP Notice:  Undefined variable: best_matches in /home/dinocomm/public_html/apps/freeshippingbar/modules/reload/reload.php on line 235
+[27-Feb-2016 18:08:13 UTC] PHP Notice:  Undefined variable: i in /home/dinocomm/public_html/apps/freeshippingbar/modules/reload/reload.php on line 220
+[27-Feb-2016 18:08:13 UTC] PHP Notice:  Undefined variable: i in /home/dinocomm/public_html/apps/freeshippingbar/modules/reload/reload.php on line 232
+[27-Feb-2016 18:08:13 UTC] PHP Warning:  in_array() expects parameter 2 to be array, null given in /home/dinocomm/public_html/apps/freeshippingbar/modules/reload/reload.php on line 129
+[27-Feb-2016 18:08:13 UTC] PHP Notice:  Undefined variable: sql in /home/dinocomm/public_html/apps/freeshippingbar/modules/reload/reload.php on line 148
+[27-Feb-2016 18:08:13 UTC] PHP Notice:  Undefined variable: best_match in /home/dinocomm/public_html/apps/freeshippingbar/modules/reload/reload.php on line 111
+[27-Feb-2016 18:08:13 UTC] PHP Notice:  Undefined variable: i in /home/dinocomm/public_html/apps/freeshippingbar/modules/reload/reload.php on line 220
+[27-Feb-2016 18:08:13 UTC] PHP Notice:  Undefined variable: best_matches in /home/dinocomm/public_html/apps/freeshippingbar/modules/reload/reload.php on line 235
+[27-Feb-2016 18:08:13 UTC] PHP Notice:  Undefined variable: i in /home/dinocomm/public_html/apps/freeshippingbar/modules/reload/reload.php on line 220
+[27-Feb-2016 18:08:13 UTC] PHP Notice:  Undefined variable: i in /home/dinocomm/public_html/apps/freeshippingbar/modules/reload/reload.php on line 232
+[27-Feb-2016 18:08:13 UTC] PHP Warning:  in_array() expects parameter 2 to be array, null given in /home/dinocomm/public_html/apps/freeshippingbar/modules/reload/reload.php on line 129
+[27-Feb-2016 18:08:13 UTC] PHP Notice:  Undefined variable: best_match in /home/dinocomm/public_html/apps/freeshippingbar/modules/reload/reload.php on line 127
+[27-Feb-2016 18:08:13 UTC] PHP Notice:  Undefined variable: i in /home/dinocomm/public_html/apps/freeshippingbar/modules/reload/reload.php on line 220
+[27-Feb-2016 18:08:13 UTC] PHP Notice:  Undefined variable: best_matches in /home/dinocomm/public_html/apps/freeshippingbar/modules/reload/reload.php on line 235
+[27-Feb-2016 18:08:13 UTC] PHP Warning:  Invalid argument supplied for foreach() in /home/dinocomm/public_html/apps/freeshippingbar/modules/reload/reload.php on line 128
+[27-Feb-2016 18:08:13 UTC] PHP Notice:  Undefined variable: sql in /home/dinocomm/public_html/apps/freeshippingbar/modules/reload/reload.php on line 148
+[27-Feb-2016 18:08:13 UTC] PHP Notice:  Undefined variable: best_match in /home/dinocomm/public_html/apps/freeshippingbar/modules/reload/reload.php on line 111
+[27-Feb-2016 18:08:13 UTC] PHP Notice:  Undefined variable: i in /home/dinocomm/public_html/apps/freeshippingbar/modules/reload/reload.php on line 220
+[27-Feb-2016 18:08:13 UTC] PHP Notice:  Undefined variable: best_matches in /home/dinocomm/public_html/apps/freeshippingbar/modules/reload/reload.php on line 235
+[27-Feb-2016 18:08:13 UTC] PHP Notice:  Undefined variable: i in /home/dinocomm/public_html/apps/freeshippingbar/modules/reload/reload.php on line 220
+[27-Feb-2016 18:08:13 UTC] PHP Notice:  Undefined variable: i in /home/dinocomm/public_html/apps/freeshippingbar/modules/reload/reload.php on line 232
+[27-Feb-2016 18:08:13 UTC] PHP Warning:  in_array() expects parameter 2 to be array, null given in /home/dinocomm/public_html/apps/freeshippingbar/modules/reload/reload.php on line 129
+[27-Feb-2016 18:08:13 UTC] PHP Notice:  Undefined variable: sql in /home/dinocomm/public_html/apps/freeshippingbar/modules/reload/reload.php on line 148
+[27-Feb-2016 18:08:13 UTC] PHP Notice:  Undefined variable: best_match in /home/dinocomm/public_html/apps/freeshippingbar/modules/reload/reload.php on line 111
+[27-Feb-2016 18:08:13 UTC] PHP Notice:  Undefined variable: i in /home/dinocomm/public_html/apps/freeshippingbar/modules/reload/reload.php on line 220
+[27-Feb-2016 18:08:13 UTC] PHP Notice:  Undefined variable: best_matches in /home/dinocomm/public_html/apps/freeshippingbar/modules/reload/reload.php on line 235
+[27-Feb-2016 18:08:13 UTC] PHP Notice:  Undefined variable: i in /home/dinocomm/public_html/apps/freeshippingbar/modules/reload/reload.php on line 220
+[27-Feb-2016 18:08:13 UTC] PHP Notice:  Undefined variable: i in /home/dinocomm/public_html/apps/freeshippingbar/modules/reload/reload.php on line 232
+[27-Feb-2016 18:08:13 UTC] PHP Warning:  in_array() expects parameter 2 to be array, null given in /home/dinocomm/public_html/apps/freeshippingbar/modules/reload/reload.php on line 129
+[27-Feb-2016 18:08:13 UTC] PHP Notice:  Undefined variable: sql in /home/dinocomm/public_html/apps/freeshippingbar/modules/reload/reload.php on line 148
+[27-Feb-2016 18:08:13 UTC] PHP Notice:  Undefined variable: best_match in /home/dinocomm/public_html/apps/freeshippingbar/modules/reload/reload.php on line 111
+[27-Feb-2016 18:08:13 UTC] PHP Notice:  Undefined variable: i in /home/dinocomm/public_html/apps/freeshippingbar/modules/reload/reload.php on line 220
+[27-Feb-2016 18:08:13 UTC] PHP Notice:  Undefined variable: best_matches in /home/dinocomm/public_html/apps/freeshippingbar/modules/reload/reload.php on line 235
+[27-Feb-2016 18:08:13 UTC] PHP Notice:  Undefined variable: i in /home/dinocomm/public_html/apps/freeshippingbar/modules/reload/reload.php on line 220
+[27-Feb-2016 18:08:13 UTC] PHP Notice:  Undefined variable: i in /home/dinocomm/public_html/apps/freeshippingbar/modules/reload/reload.php on line 232
+[27-Feb-2016 18:08:13 UTC] PHP Warning:  in_array() expects parameter 2 to be array, null given in /home/dinocomm/public_html/apps/freeshippingbar/modules/reload/reload.php on line 129
+[27-Feb-2016 18:08:13 UTC] PHP Notice:  Undefined variable: best_match in /home/dinocomm/public_html/apps/freeshippingbar/modules/reload/reload.php on line 127
+[27-Feb-2016 18:08:13 UTC] PHP Notice:  Undefined variable: i in /home/dinocomm/public_html/apps/freeshippingbar/modules/reload/reload.php on line 220
+[27-Feb-2016 18:08:13 UTC] PHP Notice:  Undefined variable: best_matches in /home/dinocomm/public_html/apps/freeshippingbar/modules/reload/reload.php on line 235
+[27-Feb-2016 18:08:13 UTC] PHP Warning:  Invalid argument supplied for foreach() in /home/dinocomm/public_html/apps/freeshippingbar/modules/reload/reload.php on line 128
+[27-Feb-2016 18:08:13 UTC] PHP Notice:  Undefined variable: best_match in /home/dinocomm/public_html/apps/freeshippingbar/modules/reload/reload.php on line 111
+[27-Feb-2016 18:08:13 UTC] PHP Notice:  Undefined variable: i in /home/dinocomm/public_html/apps/freeshippingbar/modules/reload/reload.php on line 220
+[27-Feb-2016 18:08:13 UTC] PHP Notice:  Undefined variable: best_matches in /home/dinocomm/public_html/apps/freeshippingbar/modules/reload/reload.php on line 235
+[27-Feb-2016 18:08:13 UTC] PHP Notice:  Undefined variable: i in /home/dinocomm/public_html/apps/freeshippingbar/modules/reload/reload.php on line 220
+[27-Feb-2016 18:08:13 UTC] PHP Notice:  Undefined variable: i in /home/dinocomm/public_html/apps/freeshippingbar/modules/reload/reload.php on line 232
+[27-Feb-2016 18:08:13 UTC] PHP Warning:  in_array() expects parameter 2 to be array, null given in /home/dinocomm/public_html/apps/freeshippingbar/modules/reload/reload.php on line 129
+[27-Feb-2016 18:08:13 UTC] PHP Notice:  Undefined variable: best_match in /home/dinocomm/public_html/apps/freeshippingbar/modules/reload/reload.php on line 111
+[27-Feb-2016 18:08:13 UTC] PHP Notice:  Undefined variable: i in /home/dinocomm/public_html/apps/freeshippingbar/modules/reload/reload.php on line 220
+[27-Feb-2016 18:08:13 UTC] PHP Notice:  Undefined variable: best_matches in /home/dinocomm/public_html/apps/freeshippingbar/modules/reload/reload.php on line 235
+[27-Feb-2016 18:08:13 UTC] PHP Notice:  Undefined variable: i in /home/dinocomm/public_html/apps/freeshippingbar/modules/reload/reload.php on line 220
+[27-Feb-2016 18:08:13 UTC] PHP Notice:  Undefined variable: i in /home/dinocomm/public_html/apps/freeshippingbar/modules/reload/reload.php on line 232
+[27-Feb-2016 18:08:13 UTC] PHP Warning:  in_array() expects parameter 2 to be array, null given in /home/dinocomm/public_html/apps/freeshippingbar/modules/reload/reload.php on line 129
+[27-Feb-2016 18:08:13 UTC] PHP Notice:  Undefined variable: best_match in /home/dinocomm/public_html/apps/freeshippingbar/modules/reload/reload.php on line 111
+[27-Feb-2016 18:08:13 UTC] PHP Notice:  Undefined variable: i in /home/dinocomm/public_html/apps/freeshippingbar/modules/reload/reload.php on line 220
+[27-Feb-2016 18:08:13 UTC] PHP Notice:  Undefined variable: best_matches in /home/dinocomm/public_html/apps/freeshippingbar/modules/reload/reload.php on line 235
+[27-Feb-2016 18:08:13 UTC] PHP Notice:  Undefined variable: i in /home/dinocomm/public_html/apps/freeshippingbar/modules/reload/reload.php on line 220
+[27-Feb-2016 18:08:13 UTC] PHP Notice:  Undefined variable: i in /home/dinocomm/public_html/apps/freeshippingbar/modules/reload/reload.php on line 232
+[27-Feb-2016 18:08:13 UTC] PHP Warning:  in_array() expects parameter 2 to be array, null given in /home/dinocomm/public_html/apps/freeshippingbar/modules/reload/reload.php on line 129
+[27-Feb-2016 18:08:13 UTC] PHP Notice:  Undefined variable: best_match in /home/dinocomm/public_html/apps/freeshippingbar/modules/reload/reload.php on line 111
+[27-Feb-2016 18:08:13 UTC] PHP Notice:  Undefined variable: i in /home/dinocomm/public_html/apps/freeshippingbar/modules/reload/reload.php on line 220
+[27-Feb-2016 18:08:13 UTC] PHP Notice:  Undefined variable: best_matches in /home/dinocomm/public_html/apps/freeshippingbar/modules/reload/reload.php on line 235
+[27-Feb-2016 18:08:13 UTC] PHP Notice:  Undefined variable: i in /home/dinocomm/public_html/apps/freeshippingbar/modules/reload/reload.php on line 220
+[27-Feb-2016 18:08:13 UTC] PHP Notice:  Undefined variable: i in /home/dinocomm/public_html/apps/freeshippingbar/modules/reload/reload.php on line 232
+[27-Feb-2016 18:08:13 UTC] PHP Warning:  in_array() expects parameter 2 to be array, null given in /home/dinocomm/public_html/apps/freeshippingbar/modules/reload/reload.php on line 129
+[27-Feb-2016 18:08:13 UTC] PHP Notice:  Undefined variable: best_match in /home/dinocomm/public_html/apps/freeshippingbar/modules/reload/reload.php on line 111
+[27-Feb-2016 18:08:13 UTC] PHP Notice:  Undefined variable: i in /home/dinocomm/public_html/apps/freeshippingbar/modules/reload/reload.php on line 220
+[27-Feb-2016 18:08:13 UTC] PHP Notice:  Undefined variable: best_matches in /home/dinocomm/public_html/apps/freeshippingbar/modules/reload/reload.php on line 235
+[27-Feb-2016 18:08:13 UTC] PHP Notice:  Undefined variable: i in /home/dinocomm/public_html/apps/freeshippingbar/modules/reload/reload.php on line 220
+[27-Feb-2016 18:08:13 UTC] PHP Notice:  Undefined variable: i in /home/dinocomm/public_html/apps/freeshippingbar/modules/reload/reload.php on line 232
+[27-Feb-2016 18:08:13 UTC] PHP Warning:  in_array() expects parameter 2 to be array, null given in /home/dinocomm/public_html/apps/freeshippingbar/modules/reload/reload.php on line 129
+[27-Feb-2016 18:08:13 UTC] PHP Notice:  Undefined variable: i in /home/dinocomm/public_html/apps/freeshippingbar/modules/reload/reload.php on line 220
+[27-Feb-2016 18:08:13 UTC] PHP Notice:  Undefined variable: i in /home/dinocomm/public_html/apps/freeshippingbar/modules/reload/reload.php on line 232
+[27-Feb-2016 18:08:13 UTC] PHP Notice:  Undefined variable: i in /home/dinocomm/public_html/apps/freeshippingbar/modules/reload/reload.php on line 220
+[27-Feb-2016 18:08:13 UTC] PHP Notice:  Undefined variable: i in /home/dinocomm/public_html/apps/freeshippingbar/modules/reload/reload.php on line 232
+[27-Feb-2016 18:08:13 UTC] PHP Notice:  Undefined variable: i in /home/dinocomm/public_html/apps/freeshippingbar/modules/reload/reload.php on line 220
+[27-Feb-2016 18:08:13 UTC] PHP Notice:  Undefined variable: i in /home/dinocomm/public_html/apps/freeshippingbar/modules/reload/reload.php on line 232
+[27-Feb-2016 18:08:13 UTC] PHP Notice:  Undefined variable: i in /home/dinocomm/public_html/apps/freeshippingbar/modules/reload/reload.php on line 220
+[27-Feb-2016 18:08:13 UTC] PHP Notice:  Undefined variable: i in /home/dinocomm/public_html/apps/freeshippingbar/modules/reload/reload.php on line 232
+[27-Feb-2016 18:08:13 UTC] PHP Notice:  Undefined variable: best_match in /home/dinocomm/public_html/apps/freeshippingbar/modules/reload/reload.php on line 111
+[27-Feb-2016 18:08:13 UTC] PHP Notice:  Undefined variable: i in /home/dinocomm/public_html/apps/freeshippingbar/modules/reload/reload.php on line 220
+[27-Feb-2016 18:08:13 UTC] PHP Notice:  Undefined variable: best_matches in /home/dinocomm/public_html/apps/freeshippingbar/modules/reload/reload.php on line 235
+[27-Feb-2016 18:08:13 UTC] PHP Notice:  Undefined variable: i in /home/dinocomm/public_html/apps/freeshippingbar/modules/reload/reload.php on line 220
+[27-Feb-2016 18:08:13 UTC] PHP Notice:  Undefined variable: i in /home/dinocomm/public_html/apps/freeshippingbar/modules/reload/reload.php on line 232
+[27-Feb-2016 18:08:13 UTC] PHP Warning:  in_array() expects parameter 2 to be array, null given in /home/dinocomm/public_html/apps/freeshippingbar/modules/reload/reload.php on line 129
+[27-Feb-2016 18:08:13 UTC] PHP Notice:  Undefined variable: best_match in /home/dinocomm/public_html/apps/freeshippingbar/modules/reload/reload.php on line 111
+[27-Feb-2016 18:08:13 UTC] PHP Notice:  Undefined variable: i in /home/dinocomm/public_html/apps/freeshippingbar/modules/reload/reload.php on line 220
+[27-Feb-2016 18:08:13 UTC] PHP Notice:  Undefined variable: best_matches in /home/dinocomm/public_html/apps/freeshippingbar/modules/reload/reload.php on line 235
+[27-Feb-2016 18:08:13 UTC] PHP Notice:  Undefined variable: i in /home/dinocomm/public_html/apps/freeshippingbar/modules/reload/reload.php on line 220
+[27-Feb-2016 18:08:13 UTC] PHP Notice:  Undefined variable: i in /home/dinocomm/public_html/apps/freeshippingbar/modules/reload/reload.php on line 232
+[27-Feb-2016 18:08:13 UTC] PHP Warning:  in_array() expects parameter 2 to be array, null given in /home/dinocomm/public_html/apps/freeshippingbar/modules/reload/reload.php on line 129
+[27-Feb-2016 18:09:03 UTC] PHP Notice:  Undefined offset: 0 in /home/dinocomm/public_html/apps/freeshippingbar/modules/reload/reload.php on line 207
+[27-Feb-2016 18:09:03 UTC] PHP Notice:  Undefined offset: 0 in /home/dinocomm/public_html/apps/freeshippingbar/modules/reload/reload.php on line 207
+[27-Feb-2016 18:09:03 UTC] PHP Notice:  Undefined offset: 0 in /home/dinocomm/public_html/apps/freeshippingbar/modules/reload/reload.php on line 207
+[27-Feb-2016 18:09:03 UTC] PHP Notice:  Undefined offset: 0 in /home/dinocomm/public_html/apps/freeshippingbar/modules/reload/reload.php on line 207
+[27-Feb-2016 18:09:03 UTC] PHP Notice:  Undefined offset: 0 in /home/dinocomm/public_html/apps/freeshippingbar/modules/reload/reload.php on line 207
+[27-Feb-2016 18:09:03 UTC] PHP Notice:  Undefined offset: 0 in /home/dinocomm/public_html/apps/freeshippingbar/modules/reload/reload.php on line 207
+[27-Feb-2016 18:09:03 UTC] PHP Notice:  Undefined offset: 0 in /home/dinocomm/public_html/apps/freeshippingbar/modules/reload/reload.php on line 207
+[27-Feb-2016 18:09:03 UTC] PHP Notice:  Undefined offset: 0 in /home/dinocomm/public_html/apps/freeshippingbar/modules/reload/reload.php on line 207
+[27-Feb-2016 18:09:03 UTC] PHP Notice:  Undefined variable: i in /home/dinocomm/public_html/apps/freeshippingbar/modules/reload/reload.php on line 220
+[27-Feb-2016 18:09:03 UTC] PHP Notice:  Undefined variable: i in /home/dinocomm/public_html/apps/freeshippingbar/modules/reload/reload.php on line 232
+[27-Feb-2016 18:09:03 UTC] PHP Notice:  Undefined variable: i in /home/dinocomm/public_html/apps/freeshippingbar/modules/reload/reload.php on line 220
+[27-Feb-2016 18:09:03 UTC] PHP Notice:  Undefined variable: i in /home/dinocomm/public_html/apps/freeshippingbar/modules/reload/reload.php on line 232
+[27-Feb-2016 18:09:03 UTC] PHP Notice:  Undefined variable: sql in /home/dinocomm/public_html/apps/freeshippingbar/modules/reload/reload.php on line 148
+[27-Feb-2016 18:09:03 UTC] PHP Notice:  Undefined variable: best_match in /home/dinocomm/public_html/apps/freeshippingbar/modules/reload/reload.php on line 111
+[27-Feb-2016 18:09:03 UTC] PHP Notice:  Undefined variable: i in /home/dinocomm/public_html/apps/freeshippingbar/modules/reload/reload.php on line 220
+[27-Feb-2016 18:09:03 UTC] PHP Notice:  Undefined variable: best_matches in /home/dinocomm/public_html/apps/freeshippingbar/modules/reload/reload.php on line 235
+[27-Feb-2016 18:09:03 UTC] PHP Notice:  Undefined variable: i in /home/dinocomm/public_html/apps/freeshippingbar/modules/reload/reload.php on line 220
+[27-Feb-2016 18:09:03 UTC] PHP Notice:  Undefined variable: i in /home/dinocomm/public_html/apps/freeshippingbar/modules/reload/reload.php on line 232
+[27-Feb-2016 18:09:03 UTC] PHP Warning:  in_array() expects parameter 2 to be array, null given in /home/dinocomm/public_html/apps/freeshippingbar/modules/reload/reload.php on line 129
+[27-Feb-2016 18:09:03 UTC] PHP Notice:  Undefined variable: sql in /home/dinocomm/public_html/apps/freeshippingbar/modules/reload/reload.php on line 148
+[27-Feb-2016 18:09:03 UTC] PHP Notice:  Undefined variable: i in /home/dinocomm/public_html/apps/freeshippingbar/modules/reload/reload.php on line 220
+[27-Feb-2016 18:09:03 UTC] PHP Notice:  Undefined variable: i in /home/dinocomm/public_html/apps/freeshippingbar/modules/reload/reload.php on line 232
+[27-Feb-2016 18:09:03 UTC] PHP Notice:  Undefined variable: i in /home/dinocomm/public_html/apps/freeshippingbar/modules/reload/reload.php on line 220
+[27-Feb-2016 18:09:03 UTC] PHP Notice:  Undefined variable: i in /home/dinocomm/public_html/apps/freeshippingbar/modules/reload/reload.php on line 232
+[27-Feb-2016 18:09:03 UTC] PHP Notice:  Undefined variable: sql in /home/dinocomm/public_html/apps/freeshippingbar/modules/reload/reload.php on line 148
+[27-Feb-2016 18:09:03 UTC] PHP Notice:  Undefined variable: i in /home/dinocomm/public_html/apps/freeshippingbar/modules/reload/reload.php on line 220
+[27-Feb-2016 18:09:03 UTC] PHP Notice:  Undefined variable: i in /home/dinocomm/public_html/apps/freeshippingbar/modules/reload/reload.php on line 232
+[27-Feb-2016 18:09:03 UTC] PHP Notice:  Undefined variable: i in /home/dinocomm/public_html/apps/freeshippingbar/modules/reload/reload.php on line 220
+[27-Feb-2016 18:09:03 UTC] PHP Notice:  Undefined variable: i in /home/dinocomm/public_html/apps/freeshippingbar/modules/reload/reload.php on line 232
+[27-Feb-2016 18:09:03 UTC] PHP Notice:  Undefined variable: sql in /home/dinocomm/public_html/apps/freeshippingbar/modules/reload/reload.php on line 148
+[27-Feb-2016 18:09:03 UTC] PHP Notice:  Undefined variable: best_match in /home/dinocomm/public_html/apps/freeshippingbar/modules/reload/reload.php on line 111
+[27-Feb-2016 18:09:03 UTC] PHP Notice:  Undefined variable: i in /home/dinocomm/public_html/apps/freeshippingbar/modules/reload/reload.php on line 220
+[27-Feb-2016 18:09:03 UTC] PHP Notice:  Undefined variable: best_matches in /home/dinocomm/public_html/apps/freeshippingbar/modules/reload/reload.php on line 235
+[27-Feb-2016 18:09:03 UTC] PHP Notice:  Undefined variable: i in /home/dinocomm/public_html/apps/freeshippingbar/modules/reload/reload.php on line 220
+[27-Feb-2016 18:09:03 UTC] PHP Notice:  Undefined variable: i in /home/dinocomm/public_html/apps/freeshippingbar/modules/reload/reload.php on line 232
+[27-Feb-2016 18:09:03 UTC] PHP Warning:  in_array() expects parameter 2 to be array, null given in /home/dinocomm/public_html/apps/freeshippingbar/modules/reload/reload.php on line 129
+[27-Feb-2016 18:09:03 UTC] PHP Notice:  Undefined variable: sql in /home/dinocomm/public_html/apps/freeshippingbar/modules/reload/reload.php on line 148
+[27-Feb-2016 18:09:03 UTC] PHP Notice:  Undefined variable: best_match in /home/dinocomm/public_html/apps/freeshippingbar/modules/reload/reload.php on line 111
+[27-Feb-2016 18:09:03 UTC] PHP Notice:  Undefined variable: i in /home/dinocomm/public_html/apps/freeshippingbar/modules/reload/reload.php on line 220
+[27-Feb-2016 18:09:03 UTC] PHP Notice:  Undefined variable: best_matches in /home/dinocomm/public_html/apps/freeshippingbar/modules/reload/reload.php on line 235
+[27-Feb-2016 18:09:03 UTC] PHP Notice:  Undefined variable: i in /home/dinocomm/public_html/apps/freeshippingbar/modules/reload/reload.php on line 220
+[27-Feb-2016 18:09:03 UTC] PHP Notice:  Undefined variable: i in /home/dinocomm/public_html/apps/freeshippingbar/modules/reload/reload.php on line 232
+[27-Feb-2016 18:09:03 UTC] PHP Warning:  in_array() expects parameter 2 to be array, null given in /home/dinocomm/public_html/apps/freeshippingbar/modules/reload/reload.php on line 129
+[27-Feb-2016 18:09:03 UTC] PHP Notice:  Undefined variable: best_match in /home/dinocomm/public_html/apps/freeshippingbar/modules/reload/reload.php on line 127
+[27-Feb-2016 18:09:03 UTC] PHP Notice:  Undefined variable: i in /home/dinocomm/public_html/apps/freeshippingbar/modules/reload/reload.php on line 220
+[27-Feb-2016 18:09:03 UTC] PHP Notice:  Undefined variable: best_matches in /home/dinocomm/public_html/apps/freeshippingbar/modules/reload/reload.php on line 235
+[27-Feb-2016 18:09:03 UTC] PHP Warning:  Invalid argument supplied for foreach() in /home/dinocomm/public_html/apps/freeshippingbar/modules/reload/reload.php on line 128
+[27-Feb-2016 18:09:03 UTC] PHP Notice:  Undefined variable: sql in /home/dinocomm/public_html/apps/freeshippingbar/modules/reload/reload.php on line 148
+[27-Feb-2016 18:09:03 UTC] PHP Notice:  Undefined variable: best_match in /home/dinocomm/public_html/apps/freeshippingbar/modules/reload/reload.php on line 111
+[27-Feb-2016 18:09:03 UTC] PHP Notice:  Undefined variable: i in /home/dinocomm/public_html/apps/freeshippingbar/modules/reload/reload.php on line 220
+[27-Feb-2016 18:09:03 UTC] PHP Notice:  Undefined variable: best_matches in /home/dinocomm/public_html/apps/freeshippingbar/modules/reload/reload.php on line 235
+[27-Feb-2016 18:09:03 UTC] PHP Notice:  Undefined variable: i in /home/dinocomm/public_html/apps/freeshippingbar/modules/reload/reload.php on line 220
+[27-Feb-2016 18:09:03 UTC] PHP Notice:  Undefined variable: i in /home/dinocomm/public_html/apps/freeshippingbar/modules/reload/reload.php on line 232
+[27-Feb-2016 18:09:03 UTC] PHP Warning:  in_array() expects parameter 2 to be array, null given in /home/dinocomm/public_html/apps/freeshippingbar/modules/reload/reload.php on line 129
+[27-Feb-2016 18:09:03 UTC] PHP Notice:  Undefined variable: sql in /home/dinocomm/public_html/apps/freeshippingbar/modules/reload/reload.php on line 148
+[27-Feb-2016 18:09:03 UTC] PHP Notice:  Undefined variable: best_match in /home/dinocomm/public_html/apps/freeshippingbar/modules/reload/reload.php on line 111
+[27-Feb-2016 18:09:03 UTC] PHP Notice:  Undefined variable: i in /home/dinocomm/public_html/apps/freeshippingbar/modules/reload/reload.php on line 220
+[27-Feb-2016 18:09:03 UTC] PHP Notice:  Undefined variable: best_matches in /home/dinocomm/public_html/apps/freeshippingbar/modules/reload/reload.php on line 235
+[27-Feb-2016 18:09:03 UTC] PHP Notice:  Undefined variable: i in /home/dinocomm/public_html/apps/freeshippingbar/modules/reload/reload.php on line 220
+[27-Feb-2016 18:09:03 UTC] PHP Notice:  Undefined variable: i in /home/dinocomm/public_html/apps/freeshippingbar/modules/reload/reload.php on line 232
+[27-Feb-2016 18:09:03 UTC] PHP Warning:  in_array() expects parameter 2 to be array, null given in /home/dinocomm/public_html/apps/freeshippingbar/modules/reload/reload.php on line 129
+[27-Feb-2016 18:09:03 UTC] PHP Notice:  Undefined variable: sql in /home/dinocomm/public_html/apps/freeshippingbar/modules/reload/reload.php on line 148
+[27-Feb-2016 18:09:03 UTC] PHP Notice:  Undefined variable: best_match in /home/dinocomm/public_html/apps/freeshippingbar/modules/reload/reload.php on line 111
+[27-Feb-2016 18:09:03 UTC] PHP Notice:  Undefined variable: i in /home/dinocomm/public_html/apps/freeshippingbar/modules/reload/reload.php on line 220
+[27-Feb-2016 18:09:03 UTC] PHP Notice:  Undefined variable: best_matches in /home/dinocomm/public_html/apps/freeshippingbar/modules/reload/reload.php on line 235
+[27-Feb-2016 18:09:03 UTC] PHP Notice:  Undefined variable: i in /home/dinocomm/public_html/apps/freeshippingbar/modules/reload/reload.php on line 220
+[27-Feb-2016 18:09:03 UTC] PHP Notice:  Undefined variable: i in /home/dinocomm/public_html/apps/freeshippingbar/modules/reload/reload.php on line 232
+[27-Feb-2016 18:09:03 UTC] PHP Warning:  in_array() expects parameter 2 to be array, null given in /home/dinocomm/public_html/apps/freeshippingbar/modules/reload/reload.php on line 129
+[27-Feb-2016 18:09:03 UTC] PHP Notice:  Undefined variable: best_match in /home/dinocomm/public_html/apps/freeshippingbar/modules/reload/reload.php on line 127
+[27-Feb-2016 18:09:03 UTC] PHP Notice:  Undefined variable: i in /home/dinocomm/public_html/apps/freeshippingbar/modules/reload/reload.php on line 220
+[27-Feb-2016 18:09:03 UTC] PHP Notice:  Undefined variable: best_matches in /home/dinocomm/public_html/apps/freeshippingbar/modules/reload/reload.php on line 235
+[27-Feb-2016 18:09:03 UTC] PHP Warning:  Invalid argument supplied for foreach() in /home/dinocomm/public_html/apps/freeshippingbar/modules/reload/reload.php on line 128
+[27-Feb-2016 18:09:03 UTC] PHP Notice:  Undefined variable: best_match in /home/dinocomm/public_html/apps/freeshippingbar/modules/reload/reload.php on line 111
+[27-Feb-2016 18:09:03 UTC] PHP Notice:  Undefined variable: i in /home/dinocomm/public_html/apps/freeshippingbar/modules/reload/reload.php on line 220
+[27-Feb-2016 18:09:03 UTC] PHP Notice:  Undefined variable: best_matches in /home/dinocomm/public_html/apps/freeshippingbar/modules/reload/reload.php on line 235
+[27-Feb-2016 18:09:03 UTC] PHP Notice:  Undefined variable: i in /home/dinocomm/public_html/apps/freeshippingbar/modules/reload/reload.php on line 220
+[27-Feb-2016 18:09:03 UTC] PHP Notice:  Undefined variable: i in /home/dinocomm/public_html/apps/freeshippingbar/modules/reload/reload.php on line 232
+[27-Feb-2016 18:09:03 UTC] PHP Warning:  in_array() expects parameter 2 to be array, null given in /home/dinocomm/public_html/apps/freeshippingbar/modules/reload/reload.php on line 129
+[27-Feb-2016 18:09:03 UTC] PHP Notice:  Undefined variable: best_match in /home/dinocomm/public_html/apps/freeshippingbar/modules/reload/reload.php on line 111
+[27-Feb-2016 18:09:03 UTC] PHP Notice:  Undefined variable: i in /home/dinocomm/public_html/apps/freeshippingbar/modules/reload/reload.php on line 220
+[27-Feb-2016 18:09:03 UTC] PHP Notice:  Undefined variable: best_matches in /home/dinocomm/public_html/apps/freeshippingbar/modules/reload/reload.php on line 235
+[27-Feb-2016 18:09:03 UTC] PHP Notice:  Undefined variable: i in /home/dinocomm/public_html/apps/freeshippingbar/modules/reload/reload.php on line 220
+[27-Feb-2016 18:09:03 UTC] PHP Notice:  Undefined variable: i in /home/dinocomm/public_html/apps/freeshippingbar/modules/reload/reload.php on line 232
+[27-Feb-2016 18:09:03 UTC] PHP Warning:  in_array() expects parameter 2 to be array, null given in /home/dinocomm/public_html/apps/freeshippingbar/modules/reload/reload.php on line 129
+[27-Feb-2016 18:09:03 UTC] PHP Notice:  Undefined variable: best_match in /home/dinocomm/public_html/apps/freeshippingbar/modules/reload/reload.php on line 111
+[27-Feb-2016 18:09:03 UTC] PHP Notice:  Undefined variable: i in /home/dinocomm/public_html/apps/freeshippingbar/modules/reload/reload.php on line 220
+[27-Feb-2016 18:09:03 UTC] PHP Notice:  Undefined variable: best_matches in /home/dinocomm/public_html/apps/freeshippingbar/modules/reload/reload.php on line 235
+[27-Feb-2016 18:09:03 UTC] PHP Notice:  Undefined variable: i in /home/dinocomm/public_html/apps/freeshippingbar/modules/reload/reload.php on line 220
+[27-Feb-2016 18:09:03 UTC] PHP Notice:  Undefined variable: i in /home/dinocomm/public_html/apps/freeshippingbar/modules/reload/reload.php on line 232
+[27-Feb-2016 18:09:03 UTC] PHP Warning:  in_array() expects parameter 2 to be array, null given in /home/dinocomm/public_html/apps/freeshippingbar/modules/reload/reload.php on line 129
+[27-Feb-2016 18:09:03 UTC] PHP Notice:  Undefined variable: best_match in /home/dinocomm/public_html/apps/freeshippingbar/modules/reload/reload.php on line 111
+[27-Feb-2016 18:09:03 UTC] PHP Notice:  Undefined variable: i in /home/dinocomm/public_html/apps/freeshippingbar/modules/reload/reload.php on line 220
+[27-Feb-2016 18:09:03 UTC] PHP Notice:  Undefined variable: best_matches in /home/dinocomm/public_html/apps/freeshippingbar/modules/reload/reload.php on line 235
+[27-Feb-2016 18:09:03 UTC] PHP Notice:  Undefined variable: i in /home/dinocomm/public_html/apps/freeshippingbar/modules/reload/reload.php on line 220
+[27-Feb-2016 18:09:03 UTC] PHP Notice:  Undefined variable: i in /home/dinocomm/public_html/apps/freeshippingbar/modules/reload/reload.php on line 232
+[27-Feb-2016 18:09:03 UTC] PHP Warning:  in_array() expects parameter 2 to be array, null given in /home/dinocomm/public_html/apps/freeshippingbar/modules/reload/reload.php on line 129
+[27-Feb-2016 18:09:03 UTC] PHP Notice:  Undefined variable: best_match in /home/dinocomm/public_html/apps/freeshippingbar/modules/reload/reload.php on line 111
+[27-Feb-2016 18:09:03 UTC] PHP Notice:  Undefined variable: i in /home/dinocomm/public_html/apps/freeshippingbar/modules/reload/reload.php on line 220
+[27-Feb-2016 18:09:03 UTC] PHP Notice:  Undefined variable: best_matches in /home/dinocomm/public_html/apps/freeshippingbar/modules/reload/reload.php on line 235
+[27-Feb-2016 18:09:03 UTC] PHP Notice:  Undefined variable: i in /home/dinocomm/public_html/apps/freeshippingbar/modules/reload/reload.php on line 220
+[27-Feb-2016 18:09:03 UTC] PHP Notice:  Undefined variable: i in /home/dinocomm/public_html/apps/freeshippingbar/modules/reload/reload.php on line 232
+[27-Feb-2016 18:09:03 UTC] PHP Warning:  in_array() expects parameter 2 to be array, null given in /home/dinocomm/public_html/apps/freeshippingbar/modules/reload/reload.php on line 129
+[27-Feb-2016 18:09:03 UTC] PHP Notice:  Undefined variable: i in /home/dinocomm/public_html/apps/freeshippingbar/modules/reload/reload.php on line 220
+[27-Feb-2016 18:09:03 UTC] PHP Notice:  Undefined variable: i in /home/dinocomm/public_html/apps/freeshippingbar/modules/reload/reload.php on line 232
+[27-Feb-2016 18:09:03 UTC] PHP Notice:  Undefined variable: i in /home/dinocomm/public_html/apps/freeshippingbar/modules/reload/reload.php on line 220
+[27-Feb-2016 18:09:03 UTC] PHP Notice:  Undefined variable: i in /home/dinocomm/public_html/apps/freeshippingbar/modules/reload/reload.php on line 232
+[27-Feb-2016 18:09:03 UTC] PHP Notice:  Undefined variable: i in /home/dinocomm/public_html/apps/freeshippingbar/modules/reload/reload.php on line 220
+[27-Feb-2016 18:09:03 UTC] PHP Notice:  Undefined variable: i in /home/dinocomm/public_html/apps/freeshippingbar/modules/reload/reload.php on line 232
+[27-Feb-2016 18:09:03 UTC] PHP Notice:  Undefined variable: i in /home/dinocomm/public_html/apps/freeshippingbar/modules/reload/reload.php on line 220
+[27-Feb-2016 18:09:03 UTC] PHP Notice:  Undefined variable: i in /home/dinocomm/public_html/apps/freeshippingbar/modules/reload/reload.php on line 232
+[27-Feb-2016 18:09:03 UTC] PHP Notice:  Undefined variable: best_match in /home/dinocomm/public_html/apps/freeshippingbar/modules/reload/reload.php on line 111
+[27-Feb-2016 18:09:03 UTC] PHP Notice:  Undefined variable: i in /home/dinocomm/public_html/apps/freeshippingbar/modules/reload/reload.php on line 220
+[27-Feb-2016 18:09:03 UTC] PHP Notice:  Undefined variable: best_matches in /home/dinocomm/public_html/apps/freeshippingbar/modules/reload/reload.php on line 235
+[27-Feb-2016 18:09:03 UTC] PHP Notice:  Undefined variable: i in /home/dinocomm/public_html/apps/freeshippingbar/modules/reload/reload.php on line 220
+[27-Feb-2016 18:09:03 UTC] PHP Notice:  Undefined variable: i in /home/dinocomm/public_html/apps/freeshippingbar/modules/reload/reload.php on line 232
+[27-Feb-2016 18:09:03 UTC] PHP Warning:  in_array() expects parameter 2 to be array, null given in /home/dinocomm/public_html/apps/freeshippingbar/modules/reload/reload.php on line 129
+[27-Feb-2016 18:09:03 UTC] PHP Notice:  Undefined variable: best_match in /home/dinocomm/public_html/apps/freeshippingbar/modules/reload/reload.php on line 111
+[27-Feb-2016 18:09:03 UTC] PHP Notice:  Undefined variable: i in /home/dinocomm/public_html/apps/freeshippingbar/modules/reload/reload.php on line 220
+[27-Feb-2016 18:09:03 UTC] PHP Notice:  Undefined variable: best_matches in /home/dinocomm/public_html/apps/freeshippingbar/modules/reload/reload.php on line 235
+[27-Feb-2016 18:09:03 UTC] PHP Notice:  Undefined variable: i in /home/dinocomm/public_html/apps/freeshippingbar/modules/reload/reload.php on line 220
+[27-Feb-2016 18:09:03 UTC] PHP Notice:  Undefined variable: i in /home/dinocomm/public_html/apps/freeshippingbar/modules/reload/reload.php on line 232
+[27-Feb-2016 18:09:03 UTC] PHP Warning:  in_array() expects parameter 2 to be array, null given in /home/dinocomm/public_html/apps/freeshippingbar/modules/reload/reload.php on line 129
+[27-Feb-2016 18:09:44 UTC] PHP Notice:  Undefined offset: 0 in /home/dinocomm/public_html/apps/freeshippingbar/modules/reload/reload.php on line 207
+[27-Feb-2016 18:09:44 UTC] PHP Notice:  Undefined offset: 0 in /home/dinocomm/public_html/apps/freeshippingbar/modules/reload/reload.php on line 207
+[27-Feb-2016 18:09:44 UTC] PHP Notice:  Undefined offset: 0 in /home/dinocomm/public_html/apps/freeshippingbar/modules/reload/reload.php on line 207
+[27-Feb-2016 18:09:44 UTC] PHP Notice:  Undefined offset: 0 in /home/dinocomm/public_html/apps/freeshippingbar/modules/reload/reload.php on line 207
+[27-Feb-2016 18:09:44 UTC] PHP Notice:  Undefined offset: 0 in /home/dinocomm/public_html/apps/freeshippingbar/modules/reload/reload.php on line 207
+[27-Feb-2016 18:09:44 UTC] PHP Notice:  Undefined offset: 0 in /home/dinocomm/public_html/apps/freeshippingbar/modules/reload/reload.php on line 207
+[27-Feb-2016 18:09:44 UTC] PHP Notice:  Undefined offset: 0 in /home/dinocomm/public_html/apps/freeshippingbar/modules/reload/reload.php on line 207
+[27-Feb-2016 18:09:44 UTC] PHP Notice:  Undefined offset: 0 in /home/dinocomm/public_html/apps/freeshippingbar/modules/reload/reload.php on line 207
+[27-Feb-2016 18:09:44 UTC] PHP Notice:  Undefined variable: i in /home/dinocomm/public_html/apps/freeshippingbar/modules/reload/reload.php on line 220
+[27-Feb-2016 18:09:44 UTC] PHP Notice:  Undefined variable: i in /home/dinocomm/public_html/apps/freeshippingbar/modules/reload/reload.php on line 232
+[27-Feb-2016 18:09:44 UTC] PHP Notice:  Undefined variable: i in /home/dinocomm/public_html/apps/freeshippingbar/modules/reload/reload.php on line 220
+[27-Feb-2016 18:09:44 UTC] PHP Notice:  Undefined variable: i in /home/dinocomm/public_html/apps/freeshippingbar/modules/reload/reload.php on line 232
+[27-Feb-2016 18:09:44 UTC] PHP Notice:  Undefined variable: sql in /home/dinocomm/public_html/apps/freeshippingbar/modules/reload/reload.php on line 148
+[27-Feb-2016 18:09:44 UTC] PHP Notice:  Undefined variable: best_match in /home/dinocomm/public_html/apps/freeshippingbar/modules/reload/reload.php on line 111
+[27-Feb-2016 18:09:44 UTC] PHP Notice:  Undefined variable: i in /home/dinocomm/public_html/apps/freeshippingbar/modules/reload/reload.php on line 220
+[27-Feb-2016 18:09:44 UTC] PHP Notice:  Undefined variable: best_matches in /home/dinocomm/public_html/apps/freeshippingbar/modules/reload/reload.php on line 235
+[27-Feb-2016 18:09:44 UTC] PHP Notice:  Undefined variable: i in /home/dinocomm/public_html/apps/freeshippingbar/modules/reload/reload.php on line 220
+[27-Feb-2016 18:09:44 UTC] PHP Notice:  Undefined variable: i in /home/dinocomm/public_html/apps/freeshippingbar/modules/reload/reload.php on line 232
+[27-Feb-2016 18:09:44 UTC] PHP Warning:  in_array() expects parameter 2 to be array, null given in /home/dinocomm/public_html/apps/freeshippingbar/modules/reload/reload.php on line 129
+[27-Feb-2016 18:09:44 UTC] PHP Notice:  Undefined variable: sql in /home/dinocomm/public_html/apps/freeshippingbar/modules/reload/reload.php on line 148
+[27-Feb-2016 18:09:44 UTC] PHP Notice:  Undefined variable: i in /home/dinocomm/public_html/apps/freeshippingbar/modules/reload/reload.php on line 220
+[27-Feb-2016 18:09:44 UTC] PHP Notice:  Undefined variable: i in /home/dinocomm/public_html/apps/freeshippingbar/modules/reload/reload.php on line 232
+[27-Feb-2016 18:09:44 UTC] PHP Notice:  Undefined variable: i in /home/dinocomm/public_html/apps/freeshippingbar/modules/reload/reload.php on line 220
+[27-Feb-2016 18:09:44 UTC] PHP Notice:  Undefined variable: i in /home/dinocomm/public_html/apps/freeshippingbar/modules/reload/reload.php on line 232
+[27-Feb-2016 18:09:44 UTC] PHP Notice:  Undefined variable: sql in /home/dinocomm/public_html/apps/freeshippingbar/modules/reload/reload.php on line 148
+[27-Feb-2016 18:09:44 UTC] PHP Notice:  Undefined variable: i in /home/dinocomm/public_html/apps/freeshippingbar/modules/reload/reload.php on line 220
+[27-Feb-2016 18:09:44 UTC] PHP Notice:  Undefined variable: i in /home/dinocomm/public_html/apps/freeshippingbar/modules/reload/reload.php on line 232
+[27-Feb-2016 18:09:44 UTC] PHP Notice:  Undefined variable: i in /home/dinocomm/public_html/apps/freeshippingbar/modules/reload/reload.php on line 220
+[27-Feb-2016 18:09:44 UTC] PHP Notice:  Undefined variable: i in /home/dinocomm/public_html/apps/freeshippingbar/modules/reload/reload.php on line 232
+[27-Feb-2016 18:09:44 UTC] PHP Notice:  Undefined variable: sql in /home/dinocomm/public_html/apps/freeshippingbar/modules/reload/reload.php on line 148
+[27-Feb-2016 18:09:44 UTC] PHP Notice:  Undefined variable: best_match in /home/dinocomm/public_html/apps/freeshippingbar/modules/reload/reload.php on line 111
+[27-Feb-2016 18:09:44 UTC] PHP Notice:  Undefined variable: i in /home/dinocomm/public_html/apps/freeshippingbar/modules/reload/reload.php on line 220
+[27-Feb-2016 18:09:44 UTC] PHP Notice:  Undefined variable: best_matches in /home/dinocomm/public_html/apps/freeshippingbar/modules/reload/reload.php on line 235
+[27-Feb-2016 18:09:44 UTC] PHP Notice:  Undefined variable: i in /home/dinocomm/public_html/apps/freeshippingbar/modules/reload/reload.php on line 220
+[27-Feb-2016 18:09:44 UTC] PHP Notice:  Undefined variable: i in /home/dinocomm/public_html/apps/freeshippingbar/modules/reload/reload.php on line 232
+[27-Feb-2016 18:09:44 UTC] PHP Warning:  in_array() expects parameter 2 to be array, null given in /home/dinocomm/public_html/apps/freeshippingbar/modules/reload/reload.php on line 129
+[27-Feb-2016 18:09:44 UTC] PHP Notice:  Undefined variable: sql in /home/dinocomm/public_html/apps/freeshippingbar/modules/reload/reload.php on line 148
+[27-Feb-2016 18:09:44 UTC] PHP Notice:  Undefined variable: best_match in /home/dinocomm/public_html/apps/freeshippingbar/modules/reload/reload.php on line 111
+[27-Feb-2016 18:09:44 UTC] PHP Notice:  Undefined variable: i in /home/dinocomm/public_html/apps/freeshippingbar/modules/reload/reload.php on line 220
+[27-Feb-2016 18:09:44 UTC] PHP Notice:  Undefined variable: best_matches in /home/dinocomm/public_html/apps/freeshippingbar/modules/reload/reload.php on line 235
+[27-Feb-2016 18:09:44 UTC] PHP Notice:  Undefined variable: i in /home/dinocomm/public_html/apps/freeshippingbar/modules/reload/reload.php on line 220
+[27-Feb-2016 18:09:44 UTC] PHP Notice:  Undefined variable: i in /home/dinocomm/public_html/apps/freeshippingbar/modules/reload/reload.php on line 232
+[27-Feb-2016 18:09:44 UTC] PHP Warning:  in_array() expects parameter 2 to be array, null given in /home/dinocomm/public_html/apps/freeshippingbar/modules/reload/reload.php on line 129
+[27-Feb-2016 18:09:44 UTC] PHP Notice:  Undefined variable: best_match in /home/dinocomm/public_html/apps/freeshippingbar/modules/reload/reload.php on line 127
+[27-Feb-2016 18:09:44 UTC] PHP Notice:  Undefined variable: i in /home/dinocomm/public_html/apps/freeshippingbar/modules/reload/reload.php on line 220
+[27-Feb-2016 18:09:44 UTC] PHP Notice:  Undefined variable: best_matches in /home/dinocomm/public_html/apps/freeshippingbar/modules/reload/reload.php on line 235
+[27-Feb-2016 18:09:44 UTC] PHP Warning:  Invalid argument supplied for foreach() in /home/dinocomm/public_html/apps/freeshippingbar/modules/reload/reload.php on line 128
+[27-Feb-2016 18:09:44 UTC] PHP Notice:  Undefined variable: sql in /home/dinocomm/public_html/apps/freeshippingbar/modules/reload/reload.php on line 148
+[27-Feb-2016 18:09:44 UTC] PHP Notice:  Undefined variable: best_match in /home/dinocomm/public_html/apps/freeshippingbar/modules/reload/reload.php on line 111
+[27-Feb-2016 18:09:44 UTC] PHP Notice:  Undefined variable: i in /home/dinocomm/public_html/apps/freeshippingbar/modules/reload/reload.php on line 220
+[27-Feb-2016 18:09:44 UTC] PHP Notice:  Undefined variable: best_matches in /home/dinocomm/public_html/apps/freeshippingbar/modules/reload/reload.php on line 235
+[27-Feb-2016 18:09:44 UTC] PHP Notice:  Undefined variable: i in /home/dinocomm/public_html/apps/freeshippingbar/modules/reload/reload.php on line 220
+[27-Feb-2016 18:09:44 UTC] PHP Notice:  Undefined variable: i in /home/dinocomm/public_html/apps/freeshippingbar/modules/reload/reload.php on line 232
+[27-Feb-2016 18:09:44 UTC] PHP Warning:  in_array() expects parameter 2 to be array, null given in /home/dinocomm/public_html/apps/freeshippingbar/modules/reload/reload.php on line 129
+[27-Feb-2016 18:09:44 UTC] PHP Notice:  Undefined variable: sql in /home/dinocomm/public_html/apps/freeshippingbar/modules/reload/reload.php on line 148
+[27-Feb-2016 18:09:44 UTC] PHP Notice:  Undefined variable: best_match in /home/dinocomm/public_html/apps/freeshippingbar/modules/reload/reload.php on line 111
+[27-Feb-2016 18:09:44 UTC] PHP Notice:  Undefined variable: i in /home/dinocomm/public_html/apps/freeshippingbar/modules/reload/reload.php on line 220
+[27-Feb-2016 18:09:44 UTC] PHP Notice:  Undefined variable: best_matches in /home/dinocomm/public_html/apps/freeshippingbar/modules/reload/reload.php on line 235
+[27-Feb-2016 18:09:44 UTC] PHP Notice:  Undefined variable: i in /home/dinocomm/public_html/apps/freeshippingbar/modules/reload/reload.php on line 220
+[27-Feb-2016 18:09:44 UTC] PHP Notice:  Undefined variable: i in /home/dinocomm/public_html/apps/freeshippingbar/modules/reload/reload.php on line 232
+[27-Feb-2016 18:09:44 UTC] PHP Warning:  in_array() expects parameter 2 to be array, null given in /home/dinocomm/public_html/apps/freeshippingbar/modules/reload/reload.php on line 129
+[27-Feb-2016 18:09:44 UTC] PHP Notice:  Undefined variable: sql in /home/dinocomm/public_html/apps/freeshippingbar/modules/reload/reload.php on line 148
+[27-Feb-2016 18:09:44 UTC] PHP Notice:  Undefined variable: best_match in /home/dinocomm/public_html/apps/freeshippingbar/modules/reload/reload.php on line 111
+[27-Feb-2016 18:09:44 UTC] PHP Notice:  Undefined variable: i in /home/dinocomm/public_html/apps/freeshippingbar/modules/reload/reload.php on line 220
+[27-Feb-2016 18:09:44 UTC] PHP Notice:  Undefined variable: best_matches in /home/dinocomm/public_html/apps/freeshippingbar/modules/reload/reload.php on line 235
+[27-Feb-2016 18:09:44 UTC] PHP Notice:  Undefined variable: i in /home/dinocomm/public_html/apps/freeshippingbar/modules/reload/reload.php on line 220
+[27-Feb-2016 18:09:44 UTC] PHP Notice:  Undefined variable: i in /home/dinocomm/public_html/apps/freeshippingbar/modules/reload/reload.php on line 232
+[27-Feb-2016 18:09:44 UTC] PHP Warning:  in_array() expects parameter 2 to be array, null given in /home/dinocomm/public_html/apps/freeshippingbar/modules/reload/reload.php on line 129
+[27-Feb-2016 18:09:44 UTC] PHP Notice:  Undefined variable: best_match in /home/dinocomm/public_html/apps/freeshippingbar/modules/reload/reload.php on line 127
+[27-Feb-2016 18:09:44 UTC] PHP Notice:  Undefined variable: i in /home/dinocomm/public_html/apps/freeshippingbar/modules/reload/reload.php on line 220
+[27-Feb-2016 18:09:44 UTC] PHP Notice:  Undefined variable: best_matches in /home/dinocomm/public_html/apps/freeshippingbar/modules/reload/reload.php on line 235
+[27-Feb-2016 18:09:44 UTC] PHP Warning:  Invalid argument supplied for foreach() in /home/dinocomm/public_html/apps/freeshippingbar/modules/reload/reload.php on line 128
+[27-Feb-2016 18:09:44 UTC] PHP Notice:  Undefined variable: best_match in /home/dinocomm/public_html/apps/freeshippingbar/modules/reload/reload.php on line 111
+[27-Feb-2016 18:09:44 UTC] PHP Notice:  Undefined variable: i in /home/dinocomm/public_html/apps/freeshippingbar/modules/reload/reload.php on line 220
+[27-Feb-2016 18:09:44 UTC] PHP Notice:  Undefined variable: best_matches in /home/dinocomm/public_html/apps/freeshippingbar/modules/reload/reload.php on line 235
+[27-Feb-2016 18:09:44 UTC] PHP Notice:  Undefined variable: i in /home/dinocomm/public_html/apps/freeshippingbar/modules/reload/reload.php on line 220
+[27-Feb-2016 18:09:44 UTC] PHP Notice:  Undefined variable: i in /home/dinocomm/public_html/apps/freeshippingbar/modules/reload/reload.php on line 232
+[27-Feb-2016 18:09:44 UTC] PHP Warning:  in_array() expects parameter 2 to be array, null given in /home/dinocomm/public_html/apps/freeshippingbar/modules/reload/reload.php on line 129
+[27-Feb-2016 18:09:44 UTC] PHP Notice:  Undefined variable: best_match in /home/dinocomm/public_html/apps/freeshippingbar/modules/reload/reload.php on line 111
+[27-Feb-2016 18:09:44 UTC] PHP Notice:  Undefined variable: i in /home/dinocomm/public_html/apps/freeshippingbar/modules/reload/reload.php on line 220
+[27-Feb-2016 18:09:44 UTC] PHP Notice:  Undefined variable: best_matches in /home/dinocomm/public_html/apps/freeshippingbar/modules/reload/reload.php on line 235
+[27-Feb-2016 18:09:44 UTC] PHP Notice:  Undefined variable: i in /home/dinocomm/public_html/apps/freeshippingbar/modules/reload/reload.php on line 220
+[27-Feb-2016 18:09:44 UTC] PHP Notice:  Undefined variable: i in /home/dinocomm/public_html/apps/freeshippingbar/modules/reload/reload.php on line 232
+[27-Feb-2016 18:09:44 UTC] PHP Warning:  in_array() expects parameter 2 to be array, null given in /home/dinocomm/public_html/apps/freeshippingbar/modules/reload/reload.php on line 129
+[27-Feb-2016 18:09:44 UTC] PHP Notice:  Undefined variable: best_match in /home/dinocomm/public_html/apps/freeshippingbar/modules/reload/reload.php on line 111
+[27-Feb-2016 18:09:44 UTC] PHP Notice:  Undefined variable: i in /home/dinocomm/public_html/apps/freeshippingbar/modules/reload/reload.php on line 220
+[27-Feb-2016 18:09:44 UTC] PHP Notice:  Undefined variable: best_matches in /home/dinocomm/public_html/apps/freeshippingbar/modules/reload/reload.php on line 235
+[27-Feb-2016 18:09:44 UTC] PHP Notice:  Undefined variable: i in /home/dinocomm/public_html/apps/freeshippingbar/modules/reload/reload.php on line 220
+[27-Feb-2016 18:09:44 UTC] PHP Notice:  Undefined variable: i in /home/dinocomm/public_html/apps/freeshippingbar/modules/reload/reload.php on line 232
+[27-Feb-2016 18:09:44 UTC] PHP Warning:  in_array() expects parameter 2 to be array, null given in /home/dinocomm/public_html/apps/freeshippingbar/modules/reload/reload.php on line 129
+[27-Feb-2016 18:09:44 UTC] PHP Notice:  Undefined variable: best_match in /home/dinocomm/public_html/apps/freeshippingbar/modules/reload/reload.php on line 111
+[27-Feb-2016 18:09:44 UTC] PHP Notice:  Undefined variable: i in /home/dinocomm/public_html/apps/freeshippingbar/modules/reload/reload.php on line 220
+[27-Feb-2016 18:09:44 UTC] PHP Notice:  Undefined variable: best_matches in /home/dinocomm/public_html/apps/freeshippingbar/modules/reload/reload.php on line 235
+[27-Feb-2016 18:09:44 UTC] PHP Notice:  Undefined variable: i in /home/dinocomm/public_html/apps/freeshippingbar/modules/reload/reload.php on line 220
+[27-Feb-2016 18:09:44 UTC] PHP Notice:  Undefined variable: i in /home/dinocomm/public_html/apps/freeshippingbar/modules/reload/reload.php on line 232
+[27-Feb-2016 18:09:44 UTC] PHP Warning:  in_array() expects parameter 2 to be array, null given in /home/dinocomm/public_html/apps/freeshippingbar/modules/reload/reload.php on line 129
+[27-Feb-2016 18:09:44 UTC] PHP Notice:  Undefined variable: best_match in /home/dinocomm/public_html/apps/freeshippingbar/modules/reload/reload.php on line 111
+[27-Feb-2016 18:09:44 UTC] PHP Notice:  Undefined variable: i in /home/dinocomm/public_html/apps/freeshippingbar/modules/reload/reload.php on line 220
+[27-Feb-2016 18:09:44 UTC] PHP Notice:  Undefined variable: best_matches in /home/dinocomm/public_html/apps/freeshippingbar/modules/reload/reload.php on line 235
+[27-Feb-2016 18:09:44 UTC] PHP Notice:  Undefined variable: i in /home/dinocomm/public_html/apps/freeshippingbar/modules/reload/reload.php on line 220
+[27-Feb-2016 18:09:44 UTC] PHP Notice:  Undefined variable: i in /home/dinocomm/public_html/apps/freeshippingbar/modules/reload/reload.php on line 232
+[27-Feb-2016 18:09:44 UTC] PHP Warning:  in_array() expects parameter 2 to be array, null given in /home/dinocomm/public_html/apps/freeshippingbar/modules/reload/reload.php on line 129
+[27-Feb-2016 18:09:44 UTC] PHP Notice:  Undefined variable: i in /home/dinocomm/public_html/apps/freeshippingbar/modules/reload/reload.php on line 220
+[27-Feb-2016 18:09:44 UTC] PHP Notice:  Undefined variable: i in /home/dinocomm/public_html/apps/freeshippingbar/modules/reload/reload.php on line 232
+[27-Feb-2016 18:09:44 UTC] PHP Notice:  Undefined variable: i in /home/dinocomm/public_html/apps/freeshippingbar/modules/reload/reload.php on line 220
+[27-Feb-2016 18:09:44 UTC] PHP Notice:  Undefined variable: i in /home/dinocomm/public_html/apps/freeshippingbar/modules/reload/reload.php on line 232
+[27-Feb-2016 18:09:44 UTC] PHP Notice:  Undefined variable: i in /home/dinocomm/public_html/apps/freeshippingbar/modules/reload/reload.php on line 220
+[27-Feb-2016 18:09:44 UTC] PHP Notice:  Undefined variable: i in /home/dinocomm/public_html/apps/freeshippingbar/modules/reload/reload.php on line 232
+[27-Feb-2016 18:09:44 UTC] PHP Notice:  Undefined variable: i in /home/dinocomm/public_html/apps/freeshippingbar/modules/reload/reload.php on line 220
+[27-Feb-2016 18:09:44 UTC] PHP Notice:  Undefined variable: i in /home/dinocomm/public_html/apps/freeshippingbar/modules/reload/reload.php on line 232
+[27-Feb-2016 18:09:44 UTC] PHP Notice:  Undefined variable: best_match in /home/dinocomm/public_html/apps/freeshippingbar/modules/reload/reload.php on line 111
+[27-Feb-2016 18:09:44 UTC] PHP Notice:  Undefined variable: i in /home/dinocomm/public_html/apps/freeshippingbar/modules/reload/reload.php on line 220
+[27-Feb-2016 18:09:44 UTC] PHP Notice:  Undefined variable: best_matches in /home/dinocomm/public_html/apps/freeshippingbar/modules/reload/reload.php on line 235
+[27-Feb-2016 18:09:44 UTC] PHP Notice:  Undefined variable: i in /home/dinocomm/public_html/apps/freeshippingbar/modules/reload/reload.php on line 220
+[27-Feb-2016 18:09:44 UTC] PHP Notice:  Undefined variable: i in /home/dinocomm/public_html/apps/freeshippingbar/modules/reload/reload.php on line 232
+[27-Feb-2016 18:09:44 UTC] PHP Warning:  in_array() expects parameter 2 to be array, null given in /home/dinocomm/public_html/apps/freeshippingbar/modules/reload/reload.php on line 129
+[27-Feb-2016 18:09:44 UTC] PHP Notice:  Undefined variable: best_match in /home/dinocomm/public_html/apps/freeshippingbar/modules/reload/reload.php on line 111
+[27-Feb-2016 18:09:44 UTC] PHP Notice:  Undefined variable: i in /home/dinocomm/public_html/apps/freeshippingbar/modules/reload/reload.php on line 220
+[27-Feb-2016 18:09:44 UTC] PHP Notice:  Undefined variable: best_matches in /home/dinocomm/public_html/apps/freeshippingbar/modules/reload/reload.php on line 235
+[27-Feb-2016 18:09:44 UTC] PHP Notice:  Undefined variable: i in /home/dinocomm/public_html/apps/freeshippingbar/modules/reload/reload.php on line 220
+[27-Feb-2016 18:09:44 UTC] PHP Notice:  Undefined variable: i in /home/dinocomm/public_html/apps/freeshippingbar/modules/reload/reload.php on line 232
+[27-Feb-2016 18:09:44 UTC] PHP Warning:  in_array() expects parameter 2 to be array, null given in /home/dinocomm/public_html/apps/freeshippingbar/modules/reload/reload.php on line 129
+[27-Feb-2016 18:10:02 UTC] PHP Notice:  Undefined offset: 0 in /home/dinocomm/public_html/apps/freeshippingbar/modules/reload/reload.php on line 205
+[27-Feb-2016 18:10:02 UTC] PHP Notice:  Undefined offset: 0 in /home/dinocomm/public_html/apps/freeshippingbar/modules/reload/reload.php on line 205
+[27-Feb-2016 18:10:02 UTC] PHP Notice:  Undefined offset: 0 in /home/dinocomm/public_html/apps/freeshippingbar/modules/reload/reload.php on line 205
+[27-Feb-2016 18:10:02 UTC] PHP Notice:  Undefined offset: 0 in /home/dinocomm/public_html/apps/freeshippingbar/modules/reload/reload.php on line 205
+[27-Feb-2016 18:10:02 UTC] PHP Notice:  Undefined offset: 0 in /home/dinocomm/public_html/apps/freeshippingbar/modules/reload/reload.php on line 205
+[27-Feb-2016 18:10:02 UTC] PHP Notice:  Undefined offset: 0 in /home/dinocomm/public_html/apps/freeshippingbar/modules/reload/reload.php on line 205
+[27-Feb-2016 18:10:02 UTC] PHP Notice:  Undefined offset: 0 in /home/dinocomm/public_html/apps/freeshippingbar/modules/reload/reload.php on line 205
+[27-Feb-2016 18:10:02 UTC] PHP Notice:  Undefined offset: 0 in /home/dinocomm/public_html/apps/freeshippingbar/modules/reload/reload.php on line 205
+[27-Feb-2016 18:10:03 UTC] PHP Notice:  Undefined variable: i in /home/dinocomm/public_html/apps/freeshippingbar/modules/reload/reload.php on line 218
+[27-Feb-2016 18:10:03 UTC] PHP Notice:  Undefined variable: i in /home/dinocomm/public_html/apps/freeshippingbar/modules/reload/reload.php on line 230
+[27-Feb-2016 18:10:03 UTC] PHP Notice:  Undefined variable: i in /home/dinocomm/public_html/apps/freeshippingbar/modules/reload/reload.php on line 218
+[27-Feb-2016 18:10:03 UTC] PHP Notice:  Undefined variable: i in /home/dinocomm/public_html/apps/freeshippingbar/modules/reload/reload.php on line 230
+[27-Feb-2016 18:10:03 UTC] PHP Notice:  Undefined variable: sql in /home/dinocomm/public_html/apps/freeshippingbar/modules/reload/reload.php on line 146
+[27-Feb-2016 18:10:03 UTC] PHP Notice:  Undefined variable: best_match in /home/dinocomm/public_html/apps/freeshippingbar/modules/reload/reload.php on line 109
+[27-Feb-2016 18:10:03 UTC] PHP Notice:  Undefined variable: i in /home/dinocomm/public_html/apps/freeshippingbar/modules/reload/reload.php on line 218
+[27-Feb-2016 18:10:03 UTC] PHP Notice:  Undefined variable: best_matches in /home/dinocomm/public_html/apps/freeshippingbar/modules/reload/reload.php on line 233
+[27-Feb-2016 18:10:03 UTC] PHP Notice:  Undefined variable: i in /home/dinocomm/public_html/apps/freeshippingbar/modules/reload/reload.php on line 218
+[27-Feb-2016 18:10:03 UTC] PHP Notice:  Undefined variable: i in /home/dinocomm/public_html/apps/freeshippingbar/modules/reload/reload.php on line 230
+[27-Feb-2016 18:10:03 UTC] PHP Warning:  in_array() expects parameter 2 to be array, null given in /home/dinocomm/public_html/apps/freeshippingbar/modules/reload/reload.php on line 127
+[27-Feb-2016 18:10:03 UTC] PHP Notice:  Undefined variable: sql in /home/dinocomm/public_html/apps/freeshippingbar/modules/reload/reload.php on line 146
+[27-Feb-2016 18:10:03 UTC] PHP Notice:  Undefined variable: i in /home/dinocomm/public_html/apps/freeshippingbar/modules/reload/reload.php on line 218
+[27-Feb-2016 18:10:03 UTC] PHP Notice:  Undefined variable: i in /home/dinocomm/public_html/apps/freeshippingbar/modules/reload/reload.php on line 230
+[27-Feb-2016 18:10:03 UTC] PHP Notice:  Undefined variable: i in /home/dinocomm/public_html/apps/freeshippingbar/modules/reload/reload.php on line 218
+[27-Feb-2016 18:10:03 UTC] PHP Notice:  Undefined variable: i in /home/dinocomm/public_html/apps/freeshippingbar/modules/reload/reload.php on line 230
+[27-Feb-2016 18:10:03 UTC] PHP Notice:  Undefined variable: sql in /home/dinocomm/public_html/apps/freeshippingbar/modules/reload/reload.php on line 146
+[27-Feb-2016 18:10:03 UTC] PHP Notice:  Undefined variable: i in /home/dinocomm/public_html/apps/freeshippingbar/modules/reload/reload.php on line 218
+[27-Feb-2016 18:10:03 UTC] PHP Notice:  Undefined variable: i in /home/dinocomm/public_html/apps/freeshippingbar/modules/reload/reload.php on line 230
+[27-Feb-2016 18:10:03 UTC] PHP Notice:  Undefined variable: i in /home/dinocomm/public_html/apps/freeshippingbar/modules/reload/reload.php on line 218
+[27-Feb-2016 18:10:03 UTC] PHP Notice:  Undefined variable: i in /home/dinocomm/public_html/apps/freeshippingbar/modules/reload/reload.php on line 230
+[27-Feb-2016 18:10:03 UTC] PHP Notice:  Undefined variable: sql in /home/dinocomm/public_html/apps/freeshippingbar/modules/reload/reload.php on line 146
+[27-Feb-2016 18:10:03 UTC] PHP Notice:  Undefined variable: best_match in /home/dinocomm/public_html/apps/freeshippingbar/modules/reload/reload.php on line 109
+[27-Feb-2016 18:10:03 UTC] PHP Notice:  Undefined variable: i in /home/dinocomm/public_html/apps/freeshippingbar/modules/reload/reload.php on line 218
+[27-Feb-2016 18:10:03 UTC] PHP Notice:  Undefined variable: best_matches in /home/dinocomm/public_html/apps/freeshippingbar/modules/reload/reload.php on line 233
+[27-Feb-2016 18:10:03 UTC] PHP Notice:  Undefined variable: i in /home/dinocomm/public_html/apps/freeshippingbar/modules/reload/reload.php on line 218
+[27-Feb-2016 18:10:03 UTC] PHP Notice:  Undefined variable: i in /home/dinocomm/public_html/apps/freeshippingbar/modules/reload/reload.php on line 230
+[27-Feb-2016 18:10:03 UTC] PHP Warning:  in_array() expects parameter 2 to be array, null given in /home/dinocomm/public_html/apps/freeshippingbar/modules/reload/reload.php on line 127
+[27-Feb-2016 18:10:03 UTC] PHP Notice:  Undefined variable: sql in /home/dinocomm/public_html/apps/freeshippingbar/modules/reload/reload.php on line 146
+[27-Feb-2016 18:10:03 UTC] PHP Notice:  Undefined variable: best_match in /home/dinocomm/public_html/apps/freeshippingbar/modules/reload/reload.php on line 109
+[27-Feb-2016 18:10:03 UTC] PHP Notice:  Undefined variable: i in /home/dinocomm/public_html/apps/freeshippingbar/modules/reload/reload.php on line 218
+[27-Feb-2016 18:10:03 UTC] PHP Notice:  Undefined variable: best_matches in /home/dinocomm/public_html/apps/freeshippingbar/modules/reload/reload.php on line 233
+[27-Feb-2016 18:10:03 UTC] PHP Notice:  Undefined variable: i in /home/dinocomm/public_html/apps/freeshippingbar/modules/reload/reload.php on line 218
+[27-Feb-2016 18:10:03 UTC] PHP Notice:  Undefined variable: i in /home/dinocomm/public_html/apps/freeshippingbar/modules/reload/reload.php on line 230
+[27-Feb-2016 18:10:03 UTC] PHP Warning:  in_array() expects parameter 2 to be array, null given in /home/dinocomm/public_html/apps/freeshippingbar/modules/reload/reload.php on line 127
+[27-Feb-2016 18:10:03 UTC] PHP Notice:  Undefined variable: best_match in /home/dinocomm/public_html/apps/freeshippingbar/modules/reload/reload.php on line 125
+[27-Feb-2016 18:10:03 UTC] PHP Notice:  Undefined variable: i in /home/dinocomm/public_html/apps/freeshippingbar/modules/reload/reload.php on line 218
+[27-Feb-2016 18:10:03 UTC] PHP Notice:  Undefined variable: best_matches in /home/dinocomm/public_html/apps/freeshippingbar/modules/reload/reload.php on line 233
+[27-Feb-2016 18:10:03 UTC] PHP Warning:  Invalid argument supplied for foreach() in /home/dinocomm/public_html/apps/freeshippingbar/modules/reload/reload.php on line 126
+[27-Feb-2016 18:10:03 UTC] PHP Notice:  Undefined variable: sql in /home/dinocomm/public_html/apps/freeshippingbar/modules/reload/reload.php on line 146
+[27-Feb-2016 18:10:03 UTC] PHP Notice:  Undefined variable: best_match in /home/dinocomm/public_html/apps/freeshippingbar/modules/reload/reload.php on line 109
+[27-Feb-2016 18:10:03 UTC] PHP Notice:  Undefined variable: i in /home/dinocomm/public_html/apps/freeshippingbar/modules/reload/reload.php on line 218
+[27-Feb-2016 18:10:03 UTC] PHP Notice:  Undefined variable: best_matches in /home/dinocomm/public_html/apps/freeshippingbar/modules/reload/reload.php on line 233
+[27-Feb-2016 18:10:03 UTC] PHP Notice:  Undefined variable: i in /home/dinocomm/public_html/apps/freeshippingbar/modules/reload/reload.php on line 218
+[27-Feb-2016 18:10:03 UTC] PHP Notice:  Undefined variable: i in /home/dinocomm/public_html/apps/freeshippingbar/modules/reload/reload.php on line 230
+[27-Feb-2016 18:10:03 UTC] PHP Warning:  in_array() expects parameter 2 to be array, null given in /home/dinocomm/public_html/apps/freeshippingbar/modules/reload/reload.php on line 127
+[27-Feb-2016 18:10:03 UTC] PHP Notice:  Undefined variable: sql in /home/dinocomm/public_html/apps/freeshippingbar/modules/reload/reload.php on line 146
+[27-Feb-2016 18:10:03 UTC] PHP Notice:  Undefined variable: best_match in /home/dinocomm/public_html/apps/freeshippingbar/modules/reload/reload.php on line 109
+[27-Feb-2016 18:10:03 UTC] PHP Notice:  Undefined variable: i in /home/dinocomm/public_html/apps/freeshippingbar/modules/reload/reload.php on line 218
+[27-Feb-2016 18:10:03 UTC] PHP Notice:  Undefined variable: best_matches in /home/dinocomm/public_html/apps/freeshippingbar/modules/reload/reload.php on line 233
+[27-Feb-2016 18:10:03 UTC] PHP Notice:  Undefined variable: i in /home/dinocomm/public_html/apps/freeshippingbar/modules/reload/reload.php on line 218
+[27-Feb-2016 18:10:03 UTC] PHP Notice:  Undefined variable: i in /home/dinocomm/public_html/apps/freeshippingbar/modules/reload/reload.php on line 230
+[27-Feb-2016 18:10:03 UTC] PHP Warning:  in_array() expects parameter 2 to be array, null given in /home/dinocomm/public_html/apps/freeshippingbar/modules/reload/reload.php on line 127
+[27-Feb-2016 18:10:03 UTC] PHP Notice:  Undefined variable: sql in /home/dinocomm/public_html/apps/freeshippingbar/modules/reload/reload.php on line 146
+[27-Feb-2016 18:10:03 UTC] PHP Notice:  Undefined variable: best_match in /home/dinocomm/public_html/apps/freeshippingbar/modules/reload/reload.php on line 109
+[27-Feb-2016 18:10:03 UTC] PHP Notice:  Undefined variable: i in /home/dinocomm/public_html/apps/freeshippingbar/modules/reload/reload.php on line 218
+[27-Feb-2016 18:10:03 UTC] PHP Notice:  Undefined variable: best_matches in /home/dinocomm/public_html/apps/freeshippingbar/modules/reload/reload.php on line 233
+[27-Feb-2016 18:10:03 UTC] PHP Notice:  Undefined variable: i in /home/dinocomm/public_html/apps/freeshippingbar/modules/reload/reload.php on line 218
+[27-Feb-2016 18:10:03 UTC] PHP Notice:  Undefined variable: i in /home/dinocomm/public_html/apps/freeshippingbar/modules/reload/reload.php on line 230
+[27-Feb-2016 18:10:03 UTC] PHP Warning:  in_array() expects parameter 2 to be array, null given in /home/dinocomm/public_html/apps/freeshippingbar/modules/reload/reload.php on line 127
+[27-Feb-2016 18:10:03 UTC] PHP Notice:  Undefined variable: best_match in /home/dinocomm/public_html/apps/freeshippingbar/modules/reload/reload.php on line 125
+[27-Feb-2016 18:10:03 UTC] PHP Notice:  Undefined variable: i in /home/dinocomm/public_html/apps/freeshippingbar/modules/reload/reload.php on line 218
+[27-Feb-2016 18:10:03 UTC] PHP Notice:  Undefined variable: best_matches in /home/dinocomm/public_html/apps/freeshippingbar/modules/reload/reload.php on line 233
+[27-Feb-2016 18:10:03 UTC] PHP Warning:  Invalid argument supplied for foreach() in /home/dinocomm/public_html/apps/freeshippingbar/modules/reload/reload.php on line 126
+[27-Feb-2016 18:10:03 UTC] PHP Notice:  Undefined variable: best_match in /home/dinocomm/public_html/apps/freeshippingbar/modules/reload/reload.php on line 109
+[27-Feb-2016 18:10:03 UTC] PHP Notice:  Undefined variable: i in /home/dinocomm/public_html/apps/freeshippingbar/modules/reload/reload.php on line 218
+[27-Feb-2016 18:10:03 UTC] PHP Notice:  Undefined variable: best_matches in /home/dinocomm/public_html/apps/freeshippingbar/modules/reload/reload.php on line 233
+[27-Feb-2016 18:10:03 UTC] PHP Notice:  Undefined variable: i in /home/dinocomm/public_html/apps/freeshippingbar/modules/reload/reload.php on line 218
+[27-Feb-2016 18:10:03 UTC] PHP Notice:  Undefined variable: i in /home/dinocomm/public_html/apps/freeshippingbar/modules/reload/reload.php on line 230
+[27-Feb-2016 18:10:03 UTC] PHP Warning:  in_array() expects parameter 2 to be array, null given in /home/dinocomm/public_html/apps/freeshippingbar/modules/reload/reload.php on line 127
+[27-Feb-2016 18:10:03 UTC] PHP Notice:  Undefined variable: best_match in /home/dinocomm/public_html/apps/freeshippingbar/modules/reload/reload.php on line 109
+[27-Feb-2016 18:10:03 UTC] PHP Notice:  Undefined variable: i in /home/dinocomm/public_html/apps/freeshippingbar/modules/reload/reload.php on line 218
+[27-Feb-2016 18:10:03 UTC] PHP Notice:  Undefined variable: best_matches in /home/dinocomm/public_html/apps/freeshippingbar/modules/reload/reload.php on line 233
+[27-Feb-2016 18:10:03 UTC] PHP Notice:  Undefined variable: i in /home/dinocomm/public_html/apps/freeshippingbar/modules/reload/reload.php on line 218
+[27-Feb-2016 18:10:03 UTC] PHP Notice:  Undefined variable: i in /home/dinocomm/public_html/apps/freeshippingbar/modules/reload/reload.php on line 230
+[27-Feb-2016 18:10:03 UTC] PHP Warning:  in_array() expects parameter 2 to be array, null given in /home/dinocomm/public_html/apps/freeshippingbar/modules/reload/reload.php on line 127
+[27-Feb-2016 18:10:03 UTC] PHP Notice:  Undefined variable: best_match in /home/dinocomm/public_html/apps/freeshippingbar/modules/reload/reload.php on line 109
+[27-Feb-2016 18:10:03 UTC] PHP Notice:  Undefined variable: i in /home/dinocomm/public_html/apps/freeshippingbar/modules/reload/reload.php on line 218
+[27-Feb-2016 18:10:03 UTC] PHP Notice:  Undefined variable: best_matches in /home/dinocomm/public_html/apps/freeshippingbar/modules/reload/reload.php on line 233
+[27-Feb-2016 18:10:03 UTC] PHP Notice:  Undefined variable: i in /home/dinocomm/public_html/apps/freeshippingbar/modules/reload/reload.php on line 218
+[27-Feb-2016 18:10:03 UTC] PHP Notice:  Undefined variable: i in /home/dinocomm/public_html/apps/freeshippingbar/modules/reload/reload.php on line 230
+[27-Feb-2016 18:10:03 UTC] PHP Warning:  in_array() expects parameter 2 to be array, null given in /home/dinocomm/public_html/apps/freeshippingbar/modules/reload/reload.php on line 127
+[27-Feb-2016 18:10:03 UTC] PHP Notice:  Undefined variable: best_match in /home/dinocomm/public_html/apps/freeshippingbar/modules/reload/reload.php on line 109
+[27-Feb-2016 18:10:03 UTC] PHP Notice:  Undefined variable: i in /home/dinocomm/public_html/apps/freeshippingbar/modules/reload/reload.php on line 218
+[27-Feb-2016 18:10:03 UTC] PHP Notice:  Undefined variable: best_matches in /home/dinocomm/public_html/apps/freeshippingbar/modules/reload/reload.php on line 233
+[27-Feb-2016 18:10:03 UTC] PHP Notice:  Undefined variable: i in /home/dinocomm/public_html/apps/freeshippingbar/modules/reload/reload.php on line 218
+[27-Feb-2016 18:10:03 UTC] PHP Notice:  Undefined variable: i in /home/dinocomm/public_html/apps/freeshippingbar/modules/reload/reload.php on line 230
+[27-Feb-2016 18:10:03 UTC] PHP Warning:  in_array() expects parameter 2 to be array, null given in /home/dinocomm/public_html/apps/freeshippingbar/modules/reload/reload.php on line 127
+[27-Feb-2016 18:10:03 UTC] PHP Notice:  Undefined variable: best_match in /home/dinocomm/public_html/apps/freeshippingbar/modules/reload/reload.php on line 109
+[27-Feb-2016 18:10:03 UTC] PHP Notice:  Undefined variable: i in /home/dinocomm/public_html/apps/freeshippingbar/modules/reload/reload.php on line 218
+[27-Feb-2016 18:10:03 UTC] PHP Notice:  Undefined variable: best_matches in /home/dinocomm/public_html/apps/freeshippingbar/modules/reload/reload.php on line 233
+[27-Feb-2016 18:10:03 UTC] PHP Notice:  Undefined variable: i in /home/dinocomm/public_html/apps/freeshippingbar/modules/reload/reload.php on line 218
+[27-Feb-2016 18:10:03 UTC] PHP Notice:  Undefined variable: i in /home/dinocomm/public_html/apps/freeshippingbar/modules/reload/reload.php on line 230
+[27-Feb-2016 18:10:03 UTC] PHP Warning:  in_array() expects parameter 2 to be array, null given in /home/dinocomm/public_html/apps/freeshippingbar/modules/reload/reload.php on line 127
+[27-Feb-2016 18:10:03 UTC] PHP Notice:  Undefined variable: i in /home/dinocomm/public_html/apps/freeshippingbar/modules/reload/reload.php on line 218
+[27-Feb-2016 18:10:03 UTC] PHP Notice:  Undefined variable: i in /home/dinocomm/public_html/apps/freeshippingbar/modules/reload/reload.php on line 230
+[27-Feb-2016 18:10:03 UTC] PHP Notice:  Undefined variable: i in /home/dinocomm/public_html/apps/freeshippingbar/modules/reload/reload.php on line 218
+[27-Feb-2016 18:10:03 UTC] PHP Notice:  Undefined variable: i in /home/dinocomm/public_html/apps/freeshippingbar/modules/reload/reload.php on line 230
+[27-Feb-2016 18:10:03 UTC] PHP Notice:  Undefined variable: i in /home/dinocomm/public_html/apps/freeshippingbar/modules/reload/reload.php on line 218
+[27-Feb-2016 18:10:03 UTC] PHP Notice:  Undefined variable: i in /home/dinocomm/public_html/apps/freeshippingbar/modules/reload/reload.php on line 230
+[27-Feb-2016 18:10:03 UTC] PHP Notice:  Undefined variable: i in /home/dinocomm/public_html/apps/freeshippingbar/modules/reload/reload.php on line 218
+[27-Feb-2016 18:10:03 UTC] PHP Notice:  Undefined variable: i in /home/dinocomm/public_html/apps/freeshippingbar/modules/reload/reload.php on line 230
+[27-Feb-2016 18:10:03 UTC] PHP Notice:  Undefined variable: best_match in /home/dinocomm/public_html/apps/freeshippingbar/modules/reload/reload.php on line 109
+[27-Feb-2016 18:10:03 UTC] PHP Notice:  Undefined variable: i in /home/dinocomm/public_html/apps/freeshippingbar/modules/reload/reload.php on line 218
+[27-Feb-2016 18:10:03 UTC] PHP Notice:  Undefined variable: best_matches in /home/dinocomm/public_html/apps/freeshippingbar/modules/reload/reload.php on line 233
+[27-Feb-2016 18:10:03 UTC] PHP Notice:  Undefined variable: i in /home/dinocomm/public_html/apps/freeshippingbar/modules/reload/reload.php on line 218
+[27-Feb-2016 18:10:03 UTC] PHP Notice:  Undefined variable: i in /home/dinocomm/public_html/apps/freeshippingbar/modules/reload/reload.php on line 230
+[27-Feb-2016 18:10:03 UTC] PHP Warning:  in_array() expects parameter 2 to be array, null given in /home/dinocomm/public_html/apps/freeshippingbar/modules/reload/reload.php on line 127
+[27-Feb-2016 18:10:03 UTC] PHP Notice:  Undefined variable: best_match in /home/dinocomm/public_html/apps/freeshippingbar/modules/reload/reload.php on line 109
+[27-Feb-2016 18:10:03 UTC] PHP Notice:  Undefined variable: i in /home/dinocomm/public_html/apps/freeshippingbar/modules/reload/reload.php on line 218
+[27-Feb-2016 18:10:03 UTC] PHP Notice:  Undefined variable: best_matches in /home/dinocomm/public_html/apps/freeshippingbar/modules/reload/reload.php on line 233
+[27-Feb-2016 18:10:03 UTC] PHP Notice:  Undefined variable: i in /home/dinocomm/public_html/apps/freeshippingbar/modules/reload/reload.php on line 218
+[27-Feb-2016 18:10:03 UTC] PHP Notice:  Undefined variable: i in /home/dinocomm/public_html/apps/freeshippingbar/modules/reload/reload.php on line 230
+[27-Feb-2016 18:10:03 UTC] PHP Warning:  in_array() expects parameter 2 to be array, null given in /home/dinocomm/public_html/apps/freeshippingbar/modules/reload/reload.php on line 127
+[27-Feb-2016 18:10:20 UTC] PHP Notice:  Undefined offset: 0 in /home/dinocomm/public_html/apps/freeshippingbar/modules/reload/reload.php on line 204
+[27-Feb-2016 18:10:20 UTC] PHP Notice:  Undefined offset: 0 in /home/dinocomm/public_html/apps/freeshippingbar/modules/reload/reload.php on line 204
+[27-Feb-2016 18:10:20 UTC] PHP Notice:  Undefined offset: 0 in /home/dinocomm/public_html/apps/freeshippingbar/modules/reload/reload.php on line 204
+[27-Feb-2016 18:10:20 UTC] PHP Notice:  Undefined offset: 0 in /home/dinocomm/public_html/apps/freeshippingbar/modules/reload/reload.php on line 204
+[27-Feb-2016 18:10:20 UTC] PHP Notice:  Undefined offset: 0 in /home/dinocomm/public_html/apps/freeshippingbar/modules/reload/reload.php on line 204
+[27-Feb-2016 18:10:20 UTC] PHP Notice:  Undefined offset: 0 in /home/dinocomm/public_html/apps/freeshippingbar/modules/reload/reload.php on line 204
+[27-Feb-2016 18:10:20 UTC] PHP Notice:  Undefined offset: 0 in /home/dinocomm/public_html/apps/freeshippingbar/modules/reload/reload.php on line 204
+[27-Feb-2016 18:10:20 UTC] PHP Notice:  Undefined offset: 0 in /home/dinocomm/public_html/apps/freeshippingbar/modules/reload/reload.php on line 204
+[27-Feb-2016 18:10:20 UTC] PHP Notice:  Undefined variable: i in /home/dinocomm/public_html/apps/freeshippingbar/modules/reload/reload.php on line 217
+[27-Feb-2016 18:10:20 UTC] PHP Notice:  Undefined variable: i in /home/dinocomm/public_html/apps/freeshippingbar/modules/reload/reload.php on line 229
+[27-Feb-2016 18:10:20 UTC] PHP Notice:  Undefined variable: i in /home/dinocomm/public_html/apps/freeshippingbar/modules/reload/reload.php on line 217
+[27-Feb-2016 18:10:20 UTC] PHP Notice:  Undefined variable: i in /home/dinocomm/public_html/apps/freeshippingbar/modules/reload/reload.php on line 229
+[27-Feb-2016 18:10:20 UTC] PHP Notice:  Undefined variable: sql in /home/dinocomm/public_html/apps/freeshippingbar/modules/reload/reload.php on line 145
+[27-Feb-2016 18:10:20 UTC] PHP Notice:  Undefined variable: best_match in /home/dinocomm/public_html/apps/freeshippingbar/modules/reload/reload.php on line 108
+[27-Feb-2016 18:10:20 UTC] PHP Notice:  Undefined variable: i in /home/dinocomm/public_html/apps/freeshippingbar/modules/reload/reload.php on line 217
+[27-Feb-2016 18:10:20 UTC] PHP Notice:  Undefined variable: best_matches in /home/dinocomm/public_html/apps/freeshippingbar/modules/reload/reload.php on line 232
+[27-Feb-2016 18:10:20 UTC] PHP Notice:  Undefined variable: i in /home/dinocomm/public_html/apps/freeshippingbar/modules/reload/reload.php on line 217
+[27-Feb-2016 18:10:20 UTC] PHP Notice:  Undefined variable: i in /home/dinocomm/public_html/apps/freeshippingbar/modules/reload/reload.php on line 229
+[27-Feb-2016 18:10:20 UTC] PHP Warning:  in_array() expects parameter 2 to be array, null given in /home/dinocomm/public_html/apps/freeshippingbar/modules/reload/reload.php on line 126
+[27-Feb-2016 18:10:20 UTC] PHP Notice:  Undefined variable: sql in /home/dinocomm/public_html/apps/freeshippingbar/modules/reload/reload.php on line 145
+[27-Feb-2016 18:10:20 UTC] PHP Notice:  Undefined variable: i in /home/dinocomm/public_html/apps/freeshippingbar/modules/reload/reload.php on line 217
+[27-Feb-2016 18:10:20 UTC] PHP Notice:  Undefined variable: i in /home/dinocomm/public_html/apps/freeshippingbar/modules/reload/reload.php on line 229
+[27-Feb-2016 18:10:20 UTC] PHP Notice:  Undefined variable: i in /home/dinocomm/public_html/apps/freeshippingbar/modules/reload/reload.php on line 217
+[27-Feb-2016 18:10:20 UTC] PHP Notice:  Undefined variable: i in /home/dinocomm/public_html/apps/freeshippingbar/modules/reload/reload.php on line 229
+[27-Feb-2016 18:10:20 UTC] PHP Notice:  Undefined variable: sql in /home/dinocomm/public_html/apps/freeshippingbar/modules/reload/reload.php on line 145
+[27-Feb-2016 18:10:20 UTC] PHP Notice:  Undefined variable: i in /home/dinocomm/public_html/apps/freeshippingbar/modules/reload/reload.php on line 217
+[27-Feb-2016 18:10:20 UTC] PHP Notice:  Undefined variable: i in /home/dinocomm/public_html/apps/freeshippingbar/modules/reload/reload.php on line 229
+[27-Feb-2016 18:10:20 UTC] PHP Notice:  Undefined variable: i in /home/dinocomm/public_html/apps/freeshippingbar/modules/reload/reload.php on line 217
+[27-Feb-2016 18:10:20 UTC] PHP Notice:  Undefined variable: i in /home/dinocomm/public_html/apps/freeshippingbar/modules/reload/reload.php on line 229
+[27-Feb-2016 18:10:20 UTC] PHP Notice:  Undefined variable: sql in /home/dinocomm/public_html/apps/freeshippingbar/modules/reload/reload.php on line 145
+[27-Feb-2016 18:10:20 UTC] PHP Notice:  Undefined variable: best_match in /home/dinocomm/public_html/apps/freeshippingbar/modules/reload/reload.php on line 108
+[27-Feb-2016 18:10:20 UTC] PHP Notice:  Undefined variable: i in /home/dinocomm/public_html/apps/freeshippingbar/modules/reload/reload.php on line 217
+[27-Feb-2016 18:10:20 UTC] PHP Notice:  Undefined variable: best_matches in /home/dinocomm/public_html/apps/freeshippingbar/modules/reload/reload.php on line 232
+[27-Feb-2016 18:10:20 UTC] PHP Notice:  Undefined variable: i in /home/dinocomm/public_html/apps/freeshippingbar/modules/reload/reload.php on line 217
+[27-Feb-2016 18:10:20 UTC] PHP Notice:  Undefined variable: i in /home/dinocomm/public_html/apps/freeshippingbar/modules/reload/reload.php on line 229
+[27-Feb-2016 18:10:20 UTC] PHP Warning:  in_array() expects parameter 2 to be array, null given in /home/dinocomm/public_html/apps/freeshippingbar/modules/reload/reload.php on line 126
+[27-Feb-2016 18:10:20 UTC] PHP Notice:  Undefined variable: sql in /home/dinocomm/public_html/apps/freeshippingbar/modules/reload/reload.php on line 145
+[27-Feb-2016 18:10:20 UTC] PHP Notice:  Undefined variable: best_match in /home/dinocomm/public_html/apps/freeshippingbar/modules/reload/reload.php on line 108
+[27-Feb-2016 18:10:20 UTC] PHP Notice:  Undefined variable: i in /home/dinocomm/public_html/apps/freeshippingbar/modules/reload/reload.php on line 217
+[27-Feb-2016 18:10:20 UTC] PHP Notice:  Undefined variable: best_matches in /home/dinocomm/public_html/apps/freeshippingbar/modules/reload/reload.php on line 232
+[27-Feb-2016 18:10:20 UTC] PHP Notice:  Undefined variable: i in /home/dinocomm/public_html/apps/freeshippingbar/modules/reload/reload.php on line 217
+[27-Feb-2016 18:10:20 UTC] PHP Notice:  Undefined variable: i in /home/dinocomm/public_html/apps/freeshippingbar/modules/reload/reload.php on line 229
+[27-Feb-2016 18:10:20 UTC] PHP Warning:  in_array() expects parameter 2 to be array, null given in /home/dinocomm/public_html/apps/freeshippingbar/modules/reload/reload.php on line 126
+[27-Feb-2016 18:10:20 UTC] PHP Notice:  Undefined variable: best_match in /home/dinocomm/public_html/apps/freeshippingbar/modules/reload/reload.php on line 124
+[27-Feb-2016 18:10:20 UTC] PHP Notice:  Undefined variable: i in /home/dinocomm/public_html/apps/freeshippingbar/modules/reload/reload.php on line 217
+[27-Feb-2016 18:10:20 UTC] PHP Notice:  Undefined variable: best_matches in /home/dinocomm/public_html/apps/freeshippingbar/modules/reload/reload.php on line 232
+[27-Feb-2016 18:10:20 UTC] PHP Warning:  Invalid argument supplied for foreach() in /home/dinocomm/public_html/apps/freeshippingbar/modules/reload/reload.php on line 125
+[27-Feb-2016 18:10:20 UTC] PHP Notice:  Undefined variable: sql in /home/dinocomm/public_html/apps/freeshippingbar/modules/reload/reload.php on line 145
+[27-Feb-2016 18:10:20 UTC] PHP Notice:  Undefined variable: best_match in /home/dinocomm/public_html/apps/freeshippingbar/modules/reload/reload.php on line 108
+[27-Feb-2016 18:10:20 UTC] PHP Notice:  Undefined variable: i in /home/dinocomm/public_html/apps/freeshippingbar/modules/reload/reload.php on line 217
+[27-Feb-2016 18:10:20 UTC] PHP Notice:  Undefined variable: best_matches in /home/dinocomm/public_html/apps/freeshippingbar/modules/reload/reload.php on line 232
+[27-Feb-2016 18:10:20 UTC] PHP Notice:  Undefined variable: i in /home/dinocomm/public_html/apps/freeshippingbar/modules/reload/reload.php on line 217
+[27-Feb-2016 18:10:20 UTC] PHP Notice:  Undefined variable: i in /home/dinocomm/public_html/apps/freeshippingbar/modules/reload/reload.php on line 229
+[27-Feb-2016 18:10:20 UTC] PHP Warning:  in_array() expects parameter 2 to be array, null given in /home/dinocomm/public_html/apps/freeshippingbar/modules/reload/reload.php on line 126
+[27-Feb-2016 18:10:20 UTC] PHP Notice:  Undefined variable: sql in /home/dinocomm/public_html/apps/freeshippingbar/modules/reload/reload.php on line 145
+[27-Feb-2016 18:10:20 UTC] PHP Notice:  Undefined variable: best_match in /home/dinocomm/public_html/apps/freeshippingbar/modules/reload/reload.php on line 108
+[27-Feb-2016 18:10:20 UTC] PHP Notice:  Undefined variable: i in /home/dinocomm/public_html/apps/freeshippingbar/modules/reload/reload.php on line 217
+[27-Feb-2016 18:10:20 UTC] PHP Notice:  Undefined variable: best_matches in /home/dinocomm/public_html/apps/freeshippingbar/modules/reload/reload.php on line 232
+[27-Feb-2016 18:10:20 UTC] PHP Notice:  Undefined variable: i in /home/dinocomm/public_html/apps/freeshippingbar/modules/reload/reload.php on line 217
+[27-Feb-2016 18:10:20 UTC] PHP Notice:  Undefined variable: i in /home/dinocomm/public_html/apps/freeshippingbar/modules/reload/reload.php on line 229
+[27-Feb-2016 18:10:20 UTC] PHP Warning:  in_array() expects parameter 2 to be array, null given in /home/dinocomm/public_html/apps/freeshippingbar/modules/reload/reload.php on line 126
+[27-Feb-2016 18:10:20 UTC] PHP Notice:  Undefined variable: sql in /home/dinocomm/public_html/apps/freeshippingbar/modules/reload/reload.php on line 145
+[27-Feb-2016 18:10:20 UTC] PHP Notice:  Undefined variable: best_match in /home/dinocomm/public_html/apps/freeshippingbar/modules/reload/reload.php on line 108
+[27-Feb-2016 18:10:20 UTC] PHP Notice:  Undefined variable: i in /home/dinocomm/public_html/apps/freeshippingbar/modules/reload/reload.php on line 217
+[27-Feb-2016 18:10:20 UTC] PHP Notice:  Undefined variable: best_matches in /home/dinocomm/public_html/apps/freeshippingbar/modules/reload/reload.php on line 232
+[27-Feb-2016 18:10:20 UTC] PHP Notice:  Undefined variable: i in /home/dinocomm/public_html/apps/freeshippingbar/modules/reload/reload.php on line 217
+[27-Feb-2016 18:10:20 UTC] PHP Notice:  Undefined variable: i in /home/dinocomm/public_html/apps/freeshippingbar/modules/reload/reload.php on line 229
+[27-Feb-2016 18:10:20 UTC] PHP Warning:  in_array() expects parameter 2 to be array, null given in /home/dinocomm/public_html/apps/freeshippingbar/modules/reload/reload.php on line 126
+[27-Feb-2016 18:10:20 UTC] PHP Notice:  Undefined variable: best_match in /home/dinocomm/public_html/apps/freeshippingbar/modules/reload/reload.php on line 124
+[27-Feb-2016 18:10:20 UTC] PHP Notice:  Undefined variable: i in /home/dinocomm/public_html/apps/freeshippingbar/modules/reload/reload.php on line 217
+[27-Feb-2016 18:10:20 UTC] PHP Notice:  Undefined variable: best_matches in /home/dinocomm/public_html/apps/freeshippingbar/modules/reload/reload.php on line 232
+[27-Feb-2016 18:10:20 UTC] PHP Warning:  Invalid argument supplied for foreach() in /home/dinocomm/public_html/apps/freeshippingbar/modules/reload/reload.php on line 125
+[27-Feb-2016 18:10:20 UTC] PHP Notice:  Undefined variable: best_match in /home/dinocomm/public_html/apps/freeshippingbar/modules/reload/reload.php on line 108
+[27-Feb-2016 18:10:20 UTC] PHP Notice:  Undefined variable: i in /home/dinocomm/public_html/apps/freeshippingbar/modules/reload/reload.php on line 217
+[27-Feb-2016 18:10:20 UTC] PHP Notice:  Undefined variable: best_matches in /home/dinocomm/public_html/apps/freeshippingbar/modules/reload/reload.php on line 232
+[27-Feb-2016 18:10:20 UTC] PHP Notice:  Undefined variable: i in /home/dinocomm/public_html/apps/freeshippingbar/modules/reload/reload.php on line 217
+[27-Feb-2016 18:10:20 UTC] PHP Notice:  Undefined variable: i in /home/dinocomm/public_html/apps/freeshippingbar/modules/reload/reload.php on line 229
+[27-Feb-2016 18:10:20 UTC] PHP Warning:  in_array() expects parameter 2 to be array, null given in /home/dinocomm/public_html/apps/freeshippingbar/modules/reload/reload.php on line 126
+[27-Feb-2016 18:10:20 UTC] PHP Notice:  Undefined variable: best_match in /home/dinocomm/public_html/apps/freeshippingbar/modules/reload/reload.php on line 108
+[27-Feb-2016 18:10:20 UTC] PHP Notice:  Undefined variable: i in /home/dinocomm/public_html/apps/freeshippingbar/modules/reload/reload.php on line 217
+[27-Feb-2016 18:10:20 UTC] PHP Notice:  Undefined variable: best_matches in /home/dinocomm/public_html/apps/freeshippingbar/modules/reload/reload.php on line 232
+[27-Feb-2016 18:10:20 UTC] PHP Notice:  Undefined variable: i in /home/dinocomm/public_html/apps/freeshippingbar/modules/reload/reload.php on line 217
+[27-Feb-2016 18:10:20 UTC] PHP Notice:  Undefined variable: i in /home/dinocomm/public_html/apps/freeshippingbar/modules/reload/reload.php on line 229
+[27-Feb-2016 18:10:20 UTC] PHP Warning:  in_array() expects parameter 2 to be array, null given in /home/dinocomm/public_html/apps/freeshippingbar/modules/reload/reload.php on line 126
+[27-Feb-2016 18:10:20 UTC] PHP Notice:  Undefined variable: best_match in /home/dinocomm/public_html/apps/freeshippingbar/modules/reload/reload.php on line 108
+[27-Feb-2016 18:10:20 UTC] PHP Notice:  Undefined variable: i in /home/dinocomm/public_html/apps/freeshippingbar/modules/reload/reload.php on line 217
+[27-Feb-2016 18:10:20 UTC] PHP Notice:  Undefined variable: best_matches in /home/dinocomm/public_html/apps/freeshippingbar/modules/reload/reload.php on line 232
+[27-Feb-2016 18:10:20 UTC] PHP Notice:  Undefined variable: i in /home/dinocomm/public_html/apps/freeshippingbar/modules/reload/reload.php on line 217
+[27-Feb-2016 18:10:20 UTC] PHP Notice:  Undefined variable: i in /home/dinocomm/public_html/apps/freeshippingbar/modules/reload/reload.php on line 229
+[27-Feb-2016 18:10:20 UTC] PHP Warning:  in_array() expects parameter 2 to be array, null given in /home/dinocomm/public_html/apps/freeshippingbar/modules/reload/reload.php on line 126
+[27-Feb-2016 18:10:20 UTC] PHP Notice:  Undefined variable: best_match in /home/dinocomm/public_html/apps/freeshippingbar/modules/reload/reload.php on line 108
+[27-Feb-2016 18:10:20 UTC] PHP Notice:  Undefined variable: i in /home/dinocomm/public_html/apps/freeshippingbar/modules/reload/reload.php on line 217
+[27-Feb-2016 18:10:20 UTC] PHP Notice:  Undefined variable: best_matches in /home/dinocomm/public_html/apps/freeshippingbar/modules/reload/reload.php on line 232
+[27-Feb-2016 18:10:20 UTC] PHP Notice:  Undefined variable: i in /home/dinocomm/public_html/apps/freeshippingbar/modules/reload/reload.php on line 217
+[27-Feb-2016 18:10:20 UTC] PHP Notice:  Undefined variable: i in /home/dinocomm/public_html/apps/freeshippingbar/modules/reload/reload.php on line 229
+[27-Feb-2016 18:10:20 UTC] PHP Warning:  in_array() expects parameter 2 to be array, null given in /home/dinocomm/public_html/apps/freeshippingbar/modules/reload/reload.php on line 126
+[27-Feb-2016 18:10:20 UTC] PHP Notice:  Undefined variable: best_match in /home/dinocomm/public_html/apps/freeshippingbar/modules/reload/reload.php on line 108
+[27-Feb-2016 18:10:20 UTC] PHP Notice:  Undefined variable: i in /home/dinocomm/public_html/apps/freeshippingbar/modules/reload/reload.php on line 217
+[27-Feb-2016 18:10:20 UTC] PHP Notice:  Undefined variable: best_matches in /home/dinocomm/public_html/apps/freeshippingbar/modules/reload/reload.php on line 232
+[27-Feb-2016 18:10:20 UTC] PHP Notice:  Undefined variable: i in /home/dinocomm/public_html/apps/freeshippingbar/modules/reload/reload.php on line 217
+[27-Feb-2016 18:10:20 UTC] PHP Notice:  Undefined variable: i in /home/dinocomm/public_html/apps/freeshippingbar/modules/reload/reload.php on line 229
+[27-Feb-2016 18:10:20 UTC] PHP Warning:  in_array() expects parameter 2 to be array, null given in /home/dinocomm/public_html/apps/freeshippingbar/modules/reload/reload.php on line 126
+[27-Feb-2016 18:10:20 UTC] PHP Notice:  Undefined variable: i in /home/dinocomm/public_html/apps/freeshippingbar/modules/reload/reload.php on line 217
+[27-Feb-2016 18:10:20 UTC] PHP Notice:  Undefined variable: i in /home/dinocomm/public_html/apps/freeshippingbar/modules/reload/reload.php on line 229
+[27-Feb-2016 18:10:20 UTC] PHP Notice:  Undefined variable: i in /home/dinocomm/public_html/apps/freeshippingbar/modules/reload/reload.php on line 217
+[27-Feb-2016 18:10:20 UTC] PHP Notice:  Undefined variable: i in /home/dinocomm/public_html/apps/freeshippingbar/modules/reload/reload.php on line 229
+[27-Feb-2016 18:10:20 UTC] PHP Notice:  Undefined variable: i in /home/dinocomm/public_html/apps/freeshippingbar/modules/reload/reload.php on line 217
+[27-Feb-2016 18:10:20 UTC] PHP Notice:  Undefined variable: i in /home/dinocomm/public_html/apps/freeshippingbar/modules/reload/reload.php on line 229
+[27-Feb-2016 18:10:20 UTC] PHP Notice:  Undefined variable: i in /home/dinocomm/public_html/apps/freeshippingbar/modules/reload/reload.php on line 217
+[27-Feb-2016 18:10:20 UTC] PHP Notice:  Undefined variable: i in /home/dinocomm/public_html/apps/freeshippingbar/modules/reload/reload.php on line 229
+[27-Feb-2016 18:10:20 UTC] PHP Notice:  Undefined variable: best_match in /home/dinocomm/public_html/apps/freeshippingbar/modules/reload/reload.php on line 108
+[27-Feb-2016 18:10:20 UTC] PHP Notice:  Undefined variable: i in /home/dinocomm/public_html/apps/freeshippingbar/modules/reload/reload.php on line 217
+[27-Feb-2016 18:10:20 UTC] PHP Notice:  Undefined variable: best_matches in /home/dinocomm/public_html/apps/freeshippingbar/modules/reload/reload.php on line 232
+[27-Feb-2016 18:10:20 UTC] PHP Notice:  Undefined variable: i in /home/dinocomm/public_html/apps/freeshippingbar/modules/reload/reload.php on line 217
+[27-Feb-2016 18:10:20 UTC] PHP Notice:  Undefined variable: i in /home/dinocomm/public_html/apps/freeshippingbar/modules/reload/reload.php on line 229
+[27-Feb-2016 18:10:20 UTC] PHP Warning:  in_array() expects parameter 2 to be array, null given in /home/dinocomm/public_html/apps/freeshippingbar/modules/reload/reload.php on line 126
+[27-Feb-2016 18:10:20 UTC] PHP Notice:  Undefined variable: best_match in /home/dinocomm/public_html/apps/freeshippingbar/modules/reload/reload.php on line 108
+[27-Feb-2016 18:10:20 UTC] PHP Notice:  Undefined variable: i in /home/dinocomm/public_html/apps/freeshippingbar/modules/reload/reload.php on line 217
+[27-Feb-2016 18:10:20 UTC] PHP Notice:  Undefined variable: best_matches in /home/dinocomm/public_html/apps/freeshippingbar/modules/reload/reload.php on line 232
+[27-Feb-2016 18:10:20 UTC] PHP Notice:  Undefined variable: i in /home/dinocomm/public_html/apps/freeshippingbar/modules/reload/reload.php on line 217
+[27-Feb-2016 18:10:20 UTC] PHP Notice:  Undefined variable: i in /home/dinocomm/public_html/apps/freeshippingbar/modules/reload/reload.php on line 229
+[27-Feb-2016 18:10:20 UTC] PHP Warning:  in_array() expects parameter 2 to be array, null given in /home/dinocomm/public_html/apps/freeshippingbar/modules/reload/reload.php on line 126
